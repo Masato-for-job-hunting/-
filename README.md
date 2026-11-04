@@ -1,2 +1,2 @@
-# GitHub Pages更新版
-4ファイルを既存リポジトリへ上書きアップロードしてください。
+# 軽量化パッチ v2
+既存の data.js はそのまま残し、index.html、styles.css、app.js を上書きしてください。
