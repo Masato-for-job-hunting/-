@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="慶應義塾大学文学部の2025年度就職先業種と企業別内訳を可視化した個人分析サイト">
+  <title>文学部の就職先データ | 2025年度</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">CAREER DATA 2025</p>
+      <h1>文学部の就職先を<br>業種と企業から見る</h1>
+      <p class="lead">就職者641人の業種構成と、公開資料から確認できた企業別人数を可視化しています。</p>
+      <nav aria-label="ページ内リンク"><a href="#pie">業種構成</a><a href="#bars">企業別内訳</a><a href="#notes">資料と注意点</a></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="summary" aria-label="概要">
+      <article><strong>641</strong><span>就職者数</span></article>
+      <article><strong>16</strong><span>業種区分</span></article>
+      <article><strong>417</strong><span>企業名掲載分</span></article>
+      <article><strong>253</strong><span>初期業種分類済み</span></article>
+    </section>
+
+    <section id="pie" class="panel">
+      <div class="section-head"><div><p class="eyebrow">01 / INDUSTRY SHARE</p><h2>就職先の業種構成</h2></div><p>円の各区分は、文学部就職者641人に占める割合です。</p></div>
+      <div class="pie-layout">
+        <div class="pie-shell"><div id="pieChart" class="pie" role="img" aria-label="文学部就職者の業種構成円グラフ"><div class="pie-center"><b>641人</b><span>就職者全体</span></div></div></div>
+        <div id="pieLegend" class="legend"></div>
+      </div>
+    </section>
+
+    <section id="bars" class="panel">
+      <div class="section-head"><div><p class="eyebrow">02 / COMPANY BREAKDOWN</p><h2>業種別の企業内訳</h2></div><p>棒の長さは業種人数に比例。色付き部分が企業別に確認・分類できた人数です。</p></div>
+      <div class="controls">
+        <label>表示範囲<select id="view"><option value="all">全16業種</option><option value="major">上位6業種</option><option value="classified">分類済み企業がある業種</option></select></label>
+        <label>並び順<select id="sort"><option value="total">業種人数順</option><option value="coverage">企業別捕捉率順</option><option value="known">分類済み人数順</option></select></label>
+      </div>
+      <div class="axis"><span>0</span><span>50</span><span>100</span><span>149人</span></div>
+      <div id="barChart"></div>
+    </section>
+
+    <section id="notes" class="panel notes">
+      <p class="eyebrow">03 / NOTES</p><h2>資料と読み方</h2>
+      <ul>
+        <li>業種別人数は「2025年度 業種別就職および進学等状況」に基づきます。</li>
+        <li>企業別人数は「2025年度 3名以上就職先」の文学部欄から集計しています。</li>
+        <li>企業別資料は大学全体で3名以上が就職した就職先のみ掲載するため、文学部就職者641人の全員を企業別には特定できません。</li>
+        <li>灰色部分は一社を示すものではなく、資料掲載外または業種確認を保留した複数の就職先を含みます。</li>
+        <li>会社名は原資料の表記を基本とし、業種分類は公開資料の区分に合わせた初期分類です。</li>
+      </ul>
+    </section>
+  </main>
+  <footer><div class="wrap">個人作成の分析ページです。大学公式サイトではありません。</div></footer>
+  <script src="data.js"></script><script src="app.js"></script>
+</body>
+</html>
