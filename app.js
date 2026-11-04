@@ -1,7 +1,11 @@
 (()=>{"use strict";
 const showError=(msg)=>{const el=document.getElementById("error");if(el){el.hidden=false;el.textContent=msg;}};
 try{
-  const rows=(typeof DATA!=="undefined"&&Array.isArray(DATA))?DATA:[];
+  const sourceRows=(typeof DATA!=="undefined"&&Array.isArray(DATA))?DATA:[];
+  const financeWords=["銀行","証券","生命保険","損害保険","信託","アセットマネジメント","フィナンシャル","カード","リース","農林中央金庫","日本政策金融公庫","日本政策投資銀行","日本銀行","ジェーシービー","ＪＰモルガン","ゴールドマン・サックス","モルガン・スタンレー","バークレイズ","ＵＢＳ","ＢｏｆＡ","シティグループ"];
+  const consultWords=["コンサルティング","アクセンチュア","ベイカレント","アビーム","Ａ．Ｔ．カーニー","ボストン・コンサルティング","マッキンゼー","ベイン・アンド・カンパニー","野村総合研究所","日本総合研究所","三菱総合研究所","大和総研","みずほリサーチ＆テクノロジーズ","三菱ＵＦＪリサーチ＆コンサルティング"];
+  const tradingNames=["伊藤忠商事","丸紅","三菱商事","三井物産","住友商事","双日","豊田通商","兼松","阪和興業","伊藤忠丸紅鉄鋼"];
+  const rows=sourceRows.map(d=>{const x={...d};const n=String(x.name||"");if(financeWords.some(k=>n.includes(k))){x.sector="金融・保険業";x.focus="金融";}else if(consultWords.some(k=>n.includes(k))){x.sector="学術研究・専門・技術サービス業";x.focus="コンサル";}else if(tradingNames.includes(n)){x.sector="卸売・小売業";x.focus="商社";}return x;});
   if(!rows.length) throw new Error("企業データを読み込めませんでした。ページを再読み込みしてください。");
   const C={"金融・保険業":"#2563eb","学術研究・専門・技術サービス業":"#f97316","卸売・小売業":"#16a34a","情報通信業":"#64748b","サービス業":"#94a3b8","製造業":"#a78bfa","運輸・郵便業":"#f59e0b","地方公務員":"#14b8a6","不動産・物品賃貸業":"#ec4899","国家公務員":"#0f766e","教育・学習支援業":"#84cc16","電気・ガス・熱供給・水道業":"#eab308","建設業":"#78716c","医療・福祉業":"#ef4444"},F={"金融":"#2563eb","コンサル":"#f97316","商社":"#16a34a"};
   const totals={};rows.forEach(d=>totals[d.sector]=(totals[d.sector]||0)+Number(d.total||0));const sectors=Object.entries(totals).sort((a,b)=>b[1]-a[1]);const grand=sectors.reduce((s,x)=>s+x[1],0)||1;let p=0;const stops=sectors.map(([n,v])=>{const a=p/grand*100;p+=v;return `${C[n]||"#cbd5e1"} ${a}% ${p/grand*100}%`});
