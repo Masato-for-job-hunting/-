@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T15:30+09:00",
+  "updatedAt": "2026-11-05T16:49+09:00",
   "count": 56,
   "errors": [
     "経済産業省"
@@ -142,6 +142,19 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "92f3b0670f7e",
+      "title": "「債券市場参加者会合」（第25回）の開催について",
+      "url": "http://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-05T16:00+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "65df026ea9df",
@@ -559,19 +572,6 @@
       "published": "2026-10-30T14:00+09:00",
       "categories": [
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a2223a16dafc",
-      "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
-      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T12:02+09:00",
-      "categories": [
-        "企業戦略",
         "政策・統計"
       ],
       "importance": 1
