@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T01:34+09:00",
-  "count": 56,
+  "updatedAt": "2026-11-06T02:34+09:00",
+  "count": 53,
   "errors": [
     "経済産業省"
   ],
@@ -657,43 +657,6 @@
       "sourceType": "一次情報",
       "published": "2026-10-30T09:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1cbc5d583843",
-      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "b786d1144591",
-      "title": "金融審議会「保険制度ワーキング・グループ」（第２回）議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "90757f656c1a",
-      "title": "国際関係,「Japan Global Capital Markets Conference」の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20261029/20261029-2.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T02:00+09:00",
-      "categories": [
-        "IT・通信",
         "政策・統計"
       ],
       "importance": 1
