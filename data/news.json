@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T14:08+09:00",
-  "count": 56,
+  "updatedAt": "2026-11-05T14:29+09:00",
+  "count": 55,
   "errors": [
     "経済産業省"
   ],
@@ -682,18 +682,6 @@
       "published": "2026-10-29T14:39+09:00",
       "categories": [
         "メーカー",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "30e187aef973",
-      "title": "Economic & Social Research No.53 2026年夏号",
-      "url": "https://www.esri.cao.go.jp/jp/esri/esr/esr.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-10-29T14:27+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
