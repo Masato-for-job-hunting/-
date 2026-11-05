@@ -1,7 +1,702 @@
 {
-  "updatedAt": null,
-  "count": 0,
-  "errors": [],
-  "items": []
+  "updatedAt": "2026-11-05T14:08+09:00",
+  "count": 56,
+  "errors": [
+    "経済産業省"
+  ],
+  "items": [
+    {
+      "id": "aef691cd53bc",
+      "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
+      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-05T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "74ae42a98681",
+      "title": "当面の金融政策運営について",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T13:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 3
+    },
+    {
+      "id": "fc73601bd1fe",
+      "title": "外国為替市況（11月4日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261104.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "7f8390c4b1e2",
+      "title": "外国為替市況（11月2日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261102.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T17:45+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "c1ed83a546c7",
+      "title": "経済・物価情勢の展望（10月、全文）",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T14:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "3fefcc8ecf92",
+      "title": "外国為替市況（10月30日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261030.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "b5b31eff1e25",
+      "title": "経済・物価情勢の展望（10月、基本的見解）",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T13:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "029ab6515155",
+      "title": "（参考）経済・物価情勢の展望と基調的な物価上昇率に関連する各種指標",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T12:02+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "58e788b59a58",
+      "title": "消費者物価指数（東京都区部－2026年（令和8年）10月分中旬速報値）（2025年基準）",
+      "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "26625676d6ba",
+      "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年10月分）",
+      "url": "https://www.stat.go.jp/data/kouri/doukou/3.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "c34d5bc56e5d",
+      "title": "外国為替市況（10月29日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261029.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-10-29T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "a39d9d5eca04",
+      "title": "日銀当座預金増減要因（11月見込み）",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-05T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4a66cda1a7cf",
+      "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f02b146d0ebb",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "e7c6daf1b629",
+      "title": "日本銀行が受入れている担保の残高（10月末）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "01d281e7f56f",
+      "title": "第502回消費者委員会本会議【11月10日開催】",
+      "url": "https://www.cao.go.jp/consumer/iinkai/2026/502/kaisai/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T16:05+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "41141e7827a5",
+      "title": "訓練目的の共通担保資金供給オペの実施について",
+      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T13:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "fc7d4906f8df",
+      "title": "営業毎旬報告（10月31日現在）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "46832a708616",
+      "title": "令和8年秋の叙勲等の受章者数及び受章者名簿（令和8年11月3日付け発令）",
+      "url": "https://www8.cao.go.jp/shokun/hatsurei/r08aki.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T09:49+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f60f10751fb5",
+      "title": "マネタリーベース（10月）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-04T08:50+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "c00c3f1d2ef0",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-03T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "babbd61467ef",
+      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第２回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-03T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "cf8e41951d8d",
+      "title": "国際関係,FATF声明の公表について（2026年10月プレナリー）掲載しました。",
+      "url": "https://www.fsa.go.jp/inter/fatf/20261102/20261102.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-03T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "1db79bc3e9d5",
+      "title": "その他,IFIAR関係の寄稿記事等を更新しました。",
+      "url": "https://www.fsa.go.jp/ifiar/20161207-1.html#Contributions_and_Lectures",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T20:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4d7bdf4ad04c",
+      "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
+      "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f24fcbe6d36a",
+      "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
+      "url": "http://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T16:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "cdecca0aa854",
+      "title": "【記者会見】植田総裁（10月30日分）",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T14:10+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "7b45f399fae6",
+      "title": "日銀当座預金増減要因と金融調節（10月実績）",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T13:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "73df8ecc8113",
+      "title": "その他,個人情報流出の被害に遭われた方・ご心配のある方向けの相談窓口について掲載しました。",
+      "url": "https://www.fsa.go.jp/receipt/soudansitu/index.html#kojinjouhou",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T03:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "dbb82c482d9c",
+      "title": "その他,金融機関における貸付条件の変更等の状況についてを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/tariff202504/kashitsuke/202506.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T03:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "149f789544ff",
+      "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261030/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "d1f970643812",
+      "title": "国際関係,国際会計基準（IFRS）財団モニタリング・ボードのプレスリリースについて公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "456b30d0a0af",
+      "title": "国際関係,欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "04d650cf8c59",
+      "title": "その他,「諸外国における金融制度の概要に関する調査」報告書について公表しました。",
+      "url": "https://www.fsa.go.jp/common/about/research/20261030/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T01:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f1265b45c861",
+      "title": "国際関係,ISDA Derivatives Trading Forum Tokyo 2026での基調講演「Derivatives：Grit, Ingenuity, and Growth」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030-2/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T00:00+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "93eb3ae66ba7",
+      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T17:00+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "1678013ca3be",
+      "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T17:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a3390e37848f",
+      "title": "総裁記者会見（10月30日）動画の配信開始",
+      "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T16:50+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "e1127c1ee4aa",
+      "title": "国民生活に関する世論調査",
+      "url": "https://survey.gov-online.go.jp",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T16:28+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "5d7cc05b15d0",
+      "title": "第13回人工知能（AI）技術の利用と消費者問題に関する専門調査会【10月29日開催】",
+      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/013/shiryou/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T15:22+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "d808c0d0bba8",
+      "title": "第14回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月５日開催】",
+      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/kaisai/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T15:22+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "871ba49d8632",
+      "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T14:00+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a2223a16dafc",
+      "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T12:02+09:00",
+      "categories": [
+        "企業戦略",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "8ddb2e4a3294",
+      "title": "決済動向（9月）",
+      "url": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2609.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T11:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "68acb1c36140",
+      "title": "資金循環（その他金融法人調査）（2026年第2四半期）",
+      "url": "http://www.boj.or.jp/statistics/sj/sjfs.xlsx",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "cd9bff8dae56",
+      "title": "資金循環（債務証券）（2026年第2四半期）",
+      "url": "http://www.boj.or.jp/statistics/sj/sjds.xlsx",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T10:00+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a7960d001323",
+      "title": "令和6年全国家計構造調査 年間収入・資産分布等に関する結果（ジニ係数、貧困率等を除く）",
+      "url": "https://www.stat.go.jp/data/zenkokukakei/2024/kekka.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "5e03d459d1a3",
+      "title": "統計Today No.210 社会生活基本調査から分かること（PDF：795KB）",
+      "url": "https://www.stat.go.jp/info/today/pdf/210.pdf",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "57f4279338ef",
+      "title": "労働力調査（基本集計）2026年（令和8年）9月分",
+      "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "9b1099bcf4ab",
+      "title": "労働力調査（基本集計）2026年（令和8年）7～9月期平均",
+      "url": "https://www.stat.go.jp/data/roudou/2.html#latest",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "1cbc5d583843",
+      "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "b786d1144591",
+      "title": "金融審議会「保険制度ワーキング・グループ」（第２回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijishidai/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "90757f656c1a",
+      "title": "国際関係,「Japan Global Capital Markets Conference」の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261029/20261029-2.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-30T02:00+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "019b0f893e15",
+      "title": "農薬第五専門調査会（第51回）の開催について（非公開）【11月11日開催】",
+      "url": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai5_senmon_51.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-29T14:40+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "fff49dd8800c",
+      "title": "遺伝子組換え食品等専門調査会（第282回）の開催について（非公開）【11月11日開催】",
+      "url": "https://www.fsc.go.jp/senmon/idensi/annai/idensi_annai_282.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-29T14:39+09:00",
+      "categories": [
+        "メーカー",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "30e187aef973",
+      "title": "Economic & Social Research No.53 2026年夏号",
+      "url": "https://www.esri.cao.go.jp/jp/esri/esr/esr.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-10-29T14:27+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    }
+  ]
 }
-
