@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T14:54+09:00",
-  "count": 50,
+  "updatedAt": "2026-11-06T16:06+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
@@ -83,6 +83,18 @@
       "importance": 2
     },
     {
+      "id": "6b3ab71b2fd9",
+      "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-07T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "5137d2cd1c9b",
       "title": "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/sonota/20261106-2/20261106-2.html",
@@ -90,6 +102,19 @@
       "sourceType": "一次情報",
       "published": "2026-11-06T20:00+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "37ddc6a262bb",
+      "title": "（金研ニュースレター）2026年カナダ銀行・フィラデルフィア連銀・日本銀行共催ワークショップ",
+      "url": "http://www.boj.or.jp/about/release_2026/rel261106b.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T16:00+09:00",
+      "categories": [
+        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
@@ -537,19 +562,6 @@
       "importance": 1
     },
     {
-      "id": "73ce9643ec4b",
-      "title": "国際関係,金融庁及びClimate Data Steering CommitteeによるClimate Data Utilityに関するデータ連携の開始について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20261030.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-31T01:30+09:00",
-      "categories": [
-        "IT・通信",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
       "id": "93eb3ae66ba7",
       "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
       "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
@@ -575,18 +587,6 @@
       "importance": 1
     },
     {
-      "id": "a3390e37848f",
-      "title": "総裁記者会見（10月30日）動画の配信開始",
-      "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T16:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
       "id": "e1127c1ee4aa",
       "title": "国民生活に関する世論調査",
       "url": "https://survey.gov-online.go.jp",
@@ -594,32 +594,6 @@
       "sourceType": "一次情報",
       "published": "2026-10-30T16:28+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "5d7cc05b15d0",
-      "title": "第13回人工知能（AI）技術の利用と消費者問題に関する専門調査会【10月29日開催】",
-      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/013/shiryou/index.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T15:22+09:00",
-      "categories": [
-        "IT・通信",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "d808c0d0bba8",
-      "title": "第14回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月５日開催】",
-      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/kaisai/index.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T15:22+09:00",
-      "categories": [
-        "IT・通信",
         "政策・統計"
       ],
       "importance": 1
