@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-06T09:09+09:00",
-  "count": 47,
+  "updatedAt": "2026-11-06T10:45+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
   "items": [
     {
-      "id": "71c27925b38b",
+      "id": "aef691cd53bc",
       "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
-      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T08:50+09:00",
@@ -19,9 +19,9 @@
       "importance": 3
     },
     {
-      "id": "275a35b27edf",
+      "id": "74ae42a98681",
       "title": "当面の金融政策運営について",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T13:00+09:00",
@@ -71,9 +71,9 @@
       "importance": 2
     },
     {
-      "id": "7f1a3ac67e01",
+      "id": "c1ed83a546c7",
       "title": "経済・物価情勢の展望（10月、全文）",
-      "url": "https://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T14:00+09:00",
@@ -96,9 +96,9 @@
       "importance": 2
     },
     {
-      "id": "cb325ea8b952",
+      "id": "b5b31eff1e25",
       "title": "経済・物価情勢の展望（10月、基本的見解）",
-      "url": "https://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T13:00+09:00",
@@ -108,21 +108,94 @@
       "importance": 2
     },
     {
-      "id": "1c0feff561cf",
-      "title": "（参考）経済・物価情勢の展望と基調的な物価上昇率に関連する各種指標",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030b.pdf",
+      "id": "e4eec099d3ae",
+      "title": "学生向けコンテスト「第22回 日銀グランプリ」決勝大会の実施について",
+      "url": "http://www.boj.or.jp/about/nichigin_gp/ngp_release/ngp261106.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
-      "published": "2026-10-30T12:02+09:00",
+      "published": "2026-11-06T10:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a2d01319fbbf",
+      "title": "資金循環統計のFAQ",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T10:00+09:00",
       "categories": [
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
     },
     {
-      "id": "55c87bcdc4f3",
+      "id": "fd821acc18a0",
+      "title": "資金循環統計の作成方法",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj02.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "581c8dd968d7",
+      "title": "資金循環統計の解説",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj01.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f434b4d31c5f",
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月27日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261027-1.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T03:11+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "1d38d3d51ad5",
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣ぶら下がり記者会見の概要（令和８年10月15日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261015-1.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T03:10+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "015af2027a8b",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）議事録について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijiroku/20261009.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "92f3b0670f7e",
       "title": "「債券市場参加者会合」（第25回）の開催について",
-      "url": "https://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
+      "url": "http://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T16:00+09:00",
@@ -170,9 +243,9 @@
       "importance": 1
     },
     {
-      "id": "fc63292bed4e",
+      "id": "a39d9d5eca04",
       "title": "日銀当座預金増減要因（11月見込み）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T08:50+09:00",
@@ -195,9 +268,9 @@
       "importance": 1
     },
     {
-      "id": "22cfd5b1fec8",
+      "id": "f02b146d0ebb",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:00+09:00",
@@ -209,9 +282,9 @@
       "importance": 1
     },
     {
-      "id": "3da89c904d7c",
+      "id": "e7c6daf1b629",
       "title": "日本銀行が受入れている担保の残高（10月末）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:00+09:00",
@@ -234,9 +307,9 @@
       "importance": 1
     },
     {
-      "id": "35f467dad67a",
+      "id": "41141e7827a5",
       "title": "訓練目的の共通担保資金供給オペの実施について",
-      "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
+      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T13:00+09:00",
@@ -246,9 +319,9 @@
       "importance": 1
     },
     {
-      "id": "9a14aacb958f",
+      "id": "fc7d4906f8df",
       "title": "営業毎旬報告（10月31日現在）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T10:00+09:00",
@@ -270,9 +343,9 @@
       "importance": 1
     },
     {
-      "id": "cad39a08f110",
+      "id": "f60f10751fb5",
       "title": "マネタリーベース（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T08:50+09:00",
@@ -330,9 +403,9 @@
       "importance": 1
     },
     {
-      "id": "c2ac6cbfd572",
+      "id": "4d7bdf4ad04c",
       "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
-      "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+      "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T17:00+09:00",
@@ -343,9 +416,9 @@
       "importance": 1
     },
     {
-      "id": "1eadfa9dce4a",
+      "id": "f24fcbe6d36a",
       "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
-      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+      "url": "http://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T16:00+09:00",
@@ -355,9 +428,9 @@
       "importance": 1
     },
     {
-      "id": "7e8920d26b8b",
+      "id": "cdecca0aa854",
       "title": "【記者会見】植田総裁（10月30日分）",
-      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T14:10+09:00",
@@ -367,9 +440,9 @@
       "importance": 1
     },
     {
-      "id": "175f6a328465",
+      "id": "7b45f399fae6",
       "title": "日銀当座預金増減要因と金融調節（10月実績）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T13:00+09:00",
@@ -440,6 +513,19 @@
       "importance": 1
     },
     {
+      "id": "73ce9643ec4b",
+      "title": "国際関係,金融庁及びClimate Data Steering CommitteeによるClimate Data Utilityに関するデータ連携の開始について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/etc/20261030.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-10-31T01:30+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "04d650cf8c59",
       "title": "その他,「諸外国における金融制度の概要に関する調査」報告書について公表しました。",
       "url": "https://www.fsa.go.jp/common/about/research/20261030/20261030.html",
@@ -452,22 +538,9 @@
       "importance": 1
     },
     {
-      "id": "f1265b45c861",
-      "title": "国際関係,ISDA Derivatives Trading Forum Tokyo 2026での基調講演「Derivatives：Grit, Ingenuity, and Growth」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20261030-2/20261030.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-31T00:00+09:00",
-      "categories": [
-        "IT・通信",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "b754a04fe31f",
+      "id": "93eb3ae66ba7",
       "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T17:00+09:00",
@@ -478,9 +551,9 @@
       "importance": 1
     },
     {
-      "id": "7249e2bfa194",
+      "id": "1678013ca3be",
       "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T17:00+09:00",
@@ -490,9 +563,9 @@
       "importance": 1
     },
     {
-      "id": "ee6945f166bf",
+      "id": "a3390e37848f",
       "title": "総裁記者会見（10月30日）動画の配信開始",
-      "url": "https://www.boj.or.jp/about/release/sousaidouga.htm",
+      "url": "http://www.boj.or.jp/about/release/sousaidouga.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T16:50+09:00",
@@ -540,9 +613,9 @@
       "importance": 1
     },
     {
-      "id": "4e6a609205e0",
+      "id": "871ba49d8632",
       "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-10-30T14:00+09:00",
@@ -560,31 +633,6 @@
       "sourceType": "一次情報",
       "published": "2026-10-30T11:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "68acb1c36140",
-      "title": "資金循環（その他金融法人調査）（2026年第2四半期）",
-      "url": "http://www.boj.or.jp/statistics/sj/sjfs.xlsx",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T10:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "cd9bff8dae56",
-      "title": "資金循環（債務証券）（2026年第2四半期）",
-      "url": "http://www.boj.or.jp/statistics/sj/sjds.xlsx",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T10:00+09:00",
-      "categories": [
-        "証券・市場",
         "政策・統計"
       ],
       "importance": 1
