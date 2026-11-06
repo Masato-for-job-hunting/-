@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T00:45+09:00",
-  "count": 47,
+  "updatedAt": "2026-11-07T01:47+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
@@ -125,6 +125,18 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-07T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "400cef4ac941",
+      "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-07T01:00+09:00",
       "categories": [
         "政策・統計"
       ],
