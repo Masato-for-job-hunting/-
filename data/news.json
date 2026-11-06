@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-06T16:06+09:00",
-  "count": 48,
+  "updatedAt": "2026-11-06T17:19+09:00",
+  "count": 46,
   "errors": [
     "経済産業省"
   ],
@@ -83,6 +83,18 @@
       "importance": 2
     },
     {
+      "id": "bc9c4a64ff21",
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261109.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-07T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "6b3ab71b2fd9",
       "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
       "url": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
@@ -102,6 +114,19 @@
       "sourceType": "一次情報",
       "published": "2026-11-06T20:00+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "7a56964b1fde",
+      "title": "第14回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月5日開催】",
+      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/shiryou/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T16:41+09:00",
+      "categories": [
+        "IT・通信",
         "政策・統計"
       ],
       "importance": 1
@@ -544,55 +569,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-10-31T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "456b30d0a0af",
-      "title": "国際関係,欧州財務報告諮問グループ（EFRAG）による「非EU企業向け欧州サステナビリティ報告基準（ESRS-40a）公開草案」へのコメントレター発出について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20261030-3/20261030-3.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-10-31T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "93eb3ae66ba7",
-      "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年10～12月）［日程更新］",
-      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030c.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T17:00+09:00",
-      "categories": [
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1678013ca3be",
-      "title": "米ドル資金供給オペレーションのオファー日程（2026年11月～2027年3月）",
-      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030b.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T17:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e1127c1ee4aa",
-      "title": "国民生活に関する世論調査",
-      "url": "https://survey.gov-online.go.jp",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T16:28+09:00",
       "categories": [
         "政策・統計"
       ],
