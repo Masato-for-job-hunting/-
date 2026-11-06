@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:49+09:00",
+  "updatedAt": "2026-11-06T13:53+09:00",
   "count": 50,
   "errors": [
     "経済産業省"
@@ -90,6 +90,19 @@
       "sourceType": "一次情報",
       "published": "2026-11-06T20:00+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "1ca534dd8cd3",
+      "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
+      "url": "http://www.boj.or.jp/about/release_2026/rel261106a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-06T13:00+09:00",
+      "categories": [
+        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
@@ -607,19 +620,6 @@
       "published": "2026-10-30T15:22+09:00",
       "categories": [
         "IT・通信",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "871ba49d8632",
-      "title": "「指数連動型上場投資信託受益権等の処分の指針」の一部改正について",
-      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-10-30T14:00+09:00",
-      "categories": [
-        "証券・市場",
         "政策・統計"
       ],
       "importance": 1
