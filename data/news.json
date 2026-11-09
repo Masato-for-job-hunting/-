@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:59+09:00",
+  "updatedAt": "2026-11-09T16:19+09:00",
   "count": 49,
   "errors": [
     "経済産業省"
@@ -69,6 +69,19 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "ee9a4ce0abd2",
+      "title": "コール市場残高（10月）",
+      "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T15:00+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "98534e3926dc",
@@ -594,18 +607,6 @@
       "published": "2026-11-02T17:00+09:00",
       "categories": [
         "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "f24fcbe6d36a",
-      "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
-      "url": "http://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-02T16:00+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
