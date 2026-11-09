@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T12:53+09:00",
-  "count": 49,
+  "updatedAt": "2026-11-09T13:59+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
@@ -594,19 +594,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-02T14:10+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7b45f399fae6",
-      "title": "日銀当座預金増減要因と金融調節（10月実績）",
-      "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-02T13:00+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
