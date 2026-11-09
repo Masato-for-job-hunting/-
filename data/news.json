@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T08:07+09:00",
-  "count": 47,
+  "updatedAt": "2026-11-09T09:05+09:00",
+  "count": 49,
   "errors": [
     "経済産業省"
   ],
@@ -71,16 +71,42 @@
       "importance": 2
     },
     {
-      "id": "c1ed83a546c7",
-      "title": "経済・物価情勢の展望（10月、全文）",
-      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "id": "7913f13edf96",
+      "title": "マネタリーベースと日本銀行の取引（10月）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
-      "published": "2026-11-02T14:00+09:00",
+      "published": "2026-11-09T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "27ab275cb604",
+      "title": "日本銀行の対政府取引（10月）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "367d09b59ce4",
+      "title": "オペレーション（10月）",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T08:50+09:00",
       "categories": [
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
     },
     {
       "id": "2480eda33ced",
@@ -577,7 +603,7 @@
       "id": "7b45f399fae6",
       "title": "日銀当座預金増減要因と金融調節（10月実績）",
       "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
-      "source": "日本銀行",
+      "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-02T13:00+09:00",
       "categories": [
