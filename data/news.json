@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T23:16+09:00",
-  "count": 48,
+  "updatedAt": "2026-11-10T00:26+09:00",
+  "count": 47,
   "errors": [
     "経済産業省"
   ],
@@ -581,18 +581,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-03T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "cf8e41951d8d",
-      "title": "国際関係,FATF声明の公表について（2026年10月プレナリー）掲載しました。",
-      "url": "https://www.fsa.go.jp/inter/fatf/20261102/20261102.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-03T00:00+09:00",
       "categories": [
         "政策・統計"
       ],
