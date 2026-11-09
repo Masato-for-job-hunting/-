@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-09T11:51+09:00",
+  "updatedAt": "2026-11-09T12:53+09:00",
   "count": 49,
   "errors": [
     "経済産業省"
   ],
   "items": [
     {
-      "id": "71c27925b38b",
+      "id": "aef691cd53bc",
       "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
-      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T08:50+09:00",
@@ -19,9 +19,9 @@
       "importance": 3
     },
     {
-      "id": "131d7d9b4830",
+      "id": "892a2dd841c7",
       "title": "外国為替市況（11月6日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T17:40+09:00",
@@ -32,9 +32,9 @@
       "importance": 2
     },
     {
-      "id": "cafe0545b91e",
+      "id": "8aa6c6b3c5b2",
       "title": "外国為替市況（11月5日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-05T17:40+09:00",
@@ -45,9 +45,9 @@
       "importance": 2
     },
     {
-      "id": "89b2578c5af0",
+      "id": "fc73601bd1fe",
       "title": "外国為替市況（11月4日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261104.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261104.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:40+09:00",
@@ -58,9 +58,9 @@
       "importance": 2
     },
     {
-      "id": "b0d044720cca",
+      "id": "7f8390c4b1e2",
       "title": "外国為替市況（11月2日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261102.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261102.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-02T17:45+09:00",
@@ -71,9 +71,9 @@
       "importance": 2
     },
     {
-      "id": "7f1a3ac67e01",
+      "id": "c1ed83a546c7",
       "title": "経済・物価情勢の展望（10月、全文）",
-      "url": "https://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T14:00+09:00",
@@ -83,9 +83,9 @@
       "importance": 2
     },
     {
-      "id": "b4846336043b",
+      "id": "7913f13edf96",
       "title": "マネタリーベースと日本銀行の取引（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
@@ -96,9 +96,9 @@
       "importance": 1
     },
     {
-      "id": "31ecca24fee8",
+      "id": "27ab275cb604",
       "title": "日本銀行の対政府取引（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
@@ -109,9 +109,9 @@
       "importance": 1
     },
     {
-      "id": "c1da177a228e",
+      "id": "367d09b59ce4",
       "title": "オペレーション（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
@@ -169,9 +169,9 @@
       "importance": 1
     },
     {
-      "id": "d30111213a3a",
+      "id": "400cef4ac941",
       "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
-      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-07T01:00+09:00",
@@ -230,9 +230,9 @@
       "importance": 1
     },
     {
-      "id": "2b874ab45292",
+      "id": "37ddc6a262bb",
       "title": "（金研ニュースレター）2026年カナダ銀行・フィラデルフィア連銀・日本銀行共催ワークショップ",
-      "url": "https://www.boj.or.jp/about/release_2026/rel261106b.htm",
+      "url": "http://www.boj.or.jp/about/release_2026/rel261106b.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-06T16:00+09:00",
@@ -243,9 +243,9 @@
       "importance": 1
     },
     {
-      "id": "9c283bd7e8be",
+      "id": "1ca534dd8cd3",
       "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
-      "url": "https://www.boj.or.jp/about/release_2026/rel261106a.htm",
+      "url": "http://www.boj.or.jp/about/release_2026/rel261106a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-06T13:00+09:00",
@@ -256,9 +256,9 @@
       "importance": 1
     },
     {
-      "id": "095566d5a68b",
+      "id": "4c4eea5b153e",
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（E-Series : 英語版）（2026年収録分）",
-      "url": "https://www.boj.or.jp/research/imes/dps/dps26_e.htm",
+      "url": "http://www.boj.or.jp/research/imes/dps/dps26_e.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-06T11:00+09:00",
@@ -268,9 +268,9 @@
       "importance": 1
     },
     {
-      "id": "c360ee34d665",
+      "id": "05800da3b7c1",
       "title": "金融研究所ディスカッション・ペーパー・シリーズ（2026年収録分）",
-      "url": "https://www.boj.or.jp/research/imes/dps/dps26.htm",
+      "url": "http://www.boj.or.jp/research/imes/dps/dps26.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-06T11:00+09:00",
@@ -280,9 +280,9 @@
       "importance": 1
     },
     {
-      "id": "e7920cbbe054",
+      "id": "a2d01319fbbf",
       "title": "資金循環統計のFAQ",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
@@ -292,9 +292,9 @@
       "importance": 1
     },
     {
-      "id": "83c5712efecd",
+      "id": "fd821acc18a0",
       "title": "資金循環統計の作成方法",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/exsj02.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj02.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
@@ -304,9 +304,9 @@
       "importance": 1
     },
     {
-      "id": "5a2efd5ef85e",
+      "id": "581c8dd968d7",
       "title": "資金循環統計の解説",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/exsj01.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj01.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
@@ -352,9 +352,9 @@
       "importance": 1
     },
     {
-      "id": "55c87bcdc4f3",
+      "id": "92f3b0670f7e",
       "title": "「債券市場参加者会合」（第25回）の開催について",
-      "url": "https://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
+      "url": "http://www.boj.or.jp/paym/bond/mbond_list/mbond261105.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T16:00+09:00",
@@ -402,9 +402,9 @@
       "importance": 1
     },
     {
-      "id": "fc63292bed4e",
+      "id": "a39d9d5eca04",
       "title": "日銀当座預金増減要因（11月見込み）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-05T08:50+09:00",
@@ -427,9 +427,9 @@
       "importance": 1
     },
     {
-      "id": "22cfd5b1fec8",
+      "id": "f02b146d0ebb",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261030.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:00+09:00",
@@ -441,9 +441,9 @@
       "importance": 1
     },
     {
-      "id": "3da89c904d7c",
+      "id": "e7c6daf1b629",
       "title": "日本銀行が受入れている担保の残高（10月末）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:00+09:00",
@@ -466,9 +466,9 @@
       "importance": 1
     },
     {
-      "id": "35f467dad67a",
+      "id": "41141e7827a5",
       "title": "訓練目的の共通担保資金供給オペの実施について",
-      "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
+      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T13:00+09:00",
@@ -478,9 +478,9 @@
       "importance": 1
     },
     {
-      "id": "9a14aacb958f",
+      "id": "fc7d4906f8df",
       "title": "営業毎旬報告（10月31日現在）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261031.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T10:00+09:00",
@@ -502,9 +502,9 @@
       "importance": 1
     },
     {
-      "id": "cad39a08f110",
+      "id": "f60f10751fb5",
       "title": "マネタリーベース（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T08:50+09:00",
@@ -562,9 +562,9 @@
       "importance": 1
     },
     {
-      "id": "c2ac6cbfd572",
+      "id": "4d7bdf4ad04c",
       "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
-      "url": "https://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+      "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T17:00+09:00",
@@ -575,9 +575,9 @@
       "importance": 1
     },
     {
-      "id": "1eadfa9dce4a",
+      "id": "f24fcbe6d36a",
       "title": "気候変動対応を支援するための資金供給オペレーションの対象先公募について",
-      "url": "https://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
+      "url": "http://www.boj.or.jp/mopo/measures/select/s_release/srel261102a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T16:00+09:00",
@@ -587,9 +587,9 @@
       "importance": 1
     },
     {
-      "id": "7e8920d26b8b",
+      "id": "cdecca0aa854",
       "title": "【記者会見】植田総裁（10月30日分）",
-      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T14:10+09:00",
@@ -599,9 +599,9 @@
       "importance": 1
     },
     {
-      "id": "175f6a328465",
+      "id": "7b45f399fae6",
       "title": "日銀当座預金増減要因と金融調節（10月実績）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf10.xlsx",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-02T13:00+09:00",
