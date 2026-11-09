@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T10:02+09:00",
+  "updatedAt": "2026-11-09T11:04+09:00",
   "count": 49,
   "errors": [
     "経済産業省"
@@ -66,6 +66,18 @@
       "published": "2026-11-02T17:45+09:00",
       "categories": [
         "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "c1ed83a546c7",
+      "title": "経済・物価情勢の展望（10月、全文）",
+      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-02T14:00+09:00",
+      "categories": [
         "政策・統計"
       ],
       "importance": 2
@@ -263,19 +275,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-06T11:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e4eec099d3ae",
-      "title": "学生向けコンテスト「第22回 日銀グランプリ」決勝大会の実施について",
-      "url": "http://www.boj.or.jp/about/nichigin_gp/ngp_release/ngp261106.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-06T10:00+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
