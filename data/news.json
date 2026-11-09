@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:19+09:00",
+  "updatedAt": "2026-11-09T17:46+09:00",
   "count": 49,
   "errors": [
     "経済産業省"
@@ -17,6 +17,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "a7945c328c8e",
+      "title": "外国為替市況（11月9日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261109.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "892a2dd841c7",
@@ -58,17 +71,28 @@
       "importance": 2
     },
     {
-      "id": "7f8390c4b1e2",
-      "title": "外国為替市況（11月2日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261102.pdf",
-      "source": "日本銀行 統計",
+      "id": "275749db475b",
+      "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
+      "source": "金融庁",
       "sourceType": "一次情報",
-      "published": "2026-11-02T17:45+09:00",
+      "published": "2026-11-10T02:00+09:00",
       "categories": [
-        "証券・市場",
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
+    },
+    {
+      "id": "caf9933f36f4",
+      "title": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261109.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T23:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "ee9a4ce0abd2",
@@ -152,18 +176,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "2480eda33ced",
-      "title": "現下の情勢を踏まえた金融機関利用者へのお願いについて公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20261106/20261106.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-07T03:15+09:00",
       "categories": [
         "政策・統計"
       ],
@@ -594,19 +606,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-02T20:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "4d7bdf4ad04c",
-      "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
-      "url": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-02T17:00+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
