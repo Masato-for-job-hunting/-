@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T19:53+09:00",
-  "count": 49,
+  "updatedAt": "2026-11-09T20:52+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
@@ -593,18 +593,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-03T00:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1db79bc3e9d5",
-      "title": "その他,IFIAR関係の寄稿記事等を更新しました。",
-      "url": "https://www.fsa.go.jp/ifiar/20161207-1.html#Contributions_and_Lectures",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-02T20:00+09:00",
       "categories": [
         "政策・統計"
       ],
