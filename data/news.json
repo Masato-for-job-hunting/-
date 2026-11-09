@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T01:34+09:00",
-  "count": 47,
+  "updatedAt": "2026-11-10T02:31+09:00",
+  "count": 45,
   "errors": [
     "経済産業省"
   ],
@@ -557,30 +557,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-04T08:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "c00c3f1d2ef0",
-      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-03T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "babbd61467ef",
-      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第２回）議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-03T02:00+09:00",
       "categories": [
         "政策・統計"
       ],
