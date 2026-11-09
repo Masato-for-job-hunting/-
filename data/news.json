@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T13:59+09:00",
-  "count": 48,
+  "updatedAt": "2026-11-09T14:59+09:00",
+  "count": 49,
   "errors": [
     "経済産業省"
   ],
@@ -71,16 +71,40 @@
       "importance": 2
     },
     {
-      "id": "c1ed83a546c7",
-      "title": "経済・物価情勢の展望（10月、全文）",
-      "url": "http://www.boj.or.jp/mopo/outlook/gor2610b.pdf",
+      "id": "98534e3926dc",
+      "title": "消費活動指数",
+      "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
-      "published": "2026-11-02T14:00+09:00",
+      "published": "2026-11-09T14:00+09:00",
       "categories": [
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
+    },
+    {
+      "id": "37e583c794b4",
+      "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T14:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "eeb58e3b3c7f",
+      "title": "景気動向指数（令和8年9月分速報）",
+      "url": "https://www.esri.cao.go.jp/jp/stat/di/di.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-09T13:34+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "7913f13edf96",
@@ -581,18 +605,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-02T16:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "cdecca0aa854",
-      "title": "【記者会見】植田総裁（10月30日分）",
-      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261102a.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-02T14:10+09:00",
       "categories": [
         "政策・統計"
       ],
