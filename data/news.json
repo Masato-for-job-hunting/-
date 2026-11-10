@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:44+09:00",
+  "updatedAt": "2026-11-11T03:44+09:00",
   "count": 59,
   "errors": [
     "経済産業省"
@@ -32,9 +32,9 @@
       "importance": 3
     },
     {
-      "id": "425f18d31089",
+      "id": "d7f658b10a51",
       "title": "外国為替市況（11月10日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-10T17:40+09:00",
@@ -45,9 +45,9 @@
       "importance": 2
     },
     {
-      "id": "c76130111a64",
+      "id": "a7945c328c8e",
       "title": "外国為替市況（11月9日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261109.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261109.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-09T17:40+09:00",
@@ -58,9 +58,9 @@
       "importance": 2
     },
     {
-      "id": "131d7d9b4830",
+      "id": "892a2dd841c7",
       "title": "外国為替市況（11月6日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261106.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T17:40+09:00",
@@ -71,9 +71,9 @@
       "importance": 2
     },
     {
-      "id": "cafe0545b91e",
+      "id": "8aa6c6b3c5b2",
       "title": "外国為替市況（11月5日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261105.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-05T17:40+09:00",
@@ -84,9 +84,9 @@
       "importance": 2
     },
     {
-      "id": "89b2578c5af0",
+      "id": "fc73601bd1fe",
       "title": "外国為替市況（11月4日）",
-      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261104.pdf",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261104.pdf",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-04T17:40+09:00",
@@ -134,9 +134,9 @@
       "importance": 1
     },
     {
-      "id": "f2af757db866",
+      "id": "6a4b0d4c89ca",
       "title": "「短観（全国企業短期経済観測調査）」調査表および記入要領・記入例",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-10T14:00+09:00",
@@ -292,9 +292,9 @@
       "importance": 1
     },
     {
-      "id": "9d9f5ce2b55c",
+      "id": "37e583c794b4",
       "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
-      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-09T14:00+09:00",
@@ -501,9 +501,9 @@
       "importance": 1
     },
     {
-      "id": "e7920cbbe054",
+      "id": "a2d01319fbbf",
       "title": "資金循環統計のFAQ",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/faqsj.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
@@ -513,9 +513,9 @@
       "importance": 1
     },
     {
-      "id": "83c5712efecd",
+      "id": "fd821acc18a0",
       "title": "資金循環統計の作成方法",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/exsj02.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj02.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
@@ -525,9 +525,9 @@
       "importance": 1
     },
     {
-      "id": "5a2efd5ef85e",
+      "id": "581c8dd968d7",
       "title": "資金循環統計の解説",
-      "url": "https://www.boj.or.jp/statistics/outline/exp/exsj01.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/exsj01.htm",
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-06T10:00+09:00",
