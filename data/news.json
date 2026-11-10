@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T13:49+09:00",
-  "count": 53,
+  "updatedAt": "2026-11-10T14:49+09:00",
+  "count": 57,
   "errors": [
     "経済産業省"
   ],
@@ -102,6 +102,54 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-10T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "6a4b0d4c89ca",
+      "title": "「短観（全国企業短期経済観測調査）」調査表および記入要領・記入例",
+      "url": "http://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T14:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "393e2001bcd2",
+      "title": "景気ウォッチャー調査（令和8年10月調査）",
+      "url": "https://www5.cao.go.jp/keizai3/watcher_index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T10:58+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "2be8e38c58bd",
+      "title": "労働力調査（詳細集計）2026年（令和8年）7～9月期平均",
+      "url": "https://www.stat.go.jp/data/roudou/2.html#latest",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "af32deba6602",
+      "title": "データサイエンス・オンライン講座 「“わかる・使える”統計解析プログラミング」の受講者募集開始 ―令和9年1月12日新規開講―（PDF:725KB）",
+      "url": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho261110.pdf",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T09:00+09:00",
       "categories": [
         "政策・統計"
       ],
