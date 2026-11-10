@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T09:59+09:00",
-  "count": 51,
+  "updatedAt": "2026-11-10T10:58+09:00",
+  "count": 53,
   "errors": [
     "経済産業省"
   ],
@@ -82,6 +82,30 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "fdf226681228",
+      "title": "「無登録業者との取引は要注意！！～ 無登録業者との取引は高リスク ～」のページを更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/highrisk.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "fc55b7b0a818",
+      "title": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-05/shiho-05.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "9c493d04d184",
