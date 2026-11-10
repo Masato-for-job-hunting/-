@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T14:49+09:00",
-  "count": 57,
+  "updatedAt": "2026-11-10T15:58+09:00",
+  "count": 58,
   "errors": [
     "経済産業省"
   ],
@@ -103,6 +103,19 @@
       "sourceType": "一次情報",
       "published": "2026-11-10T19:00+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "31a1cd44f847",
+      "title": "食事由来の化学物質のばく露評価ワーキンググループ（第14回）の開催について【11月18日開催】",
+      "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_bakuro_annai_14.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-10T14:38+09:00",
+      "categories": [
+        "メーカー",
         "政策・統計"
       ],
       "importance": 1
