@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T12:50+09:00",
+  "updatedAt": "2026-11-11T13:54+09:00",
   "count": 57,
   "errors": [
     "経済産業省"
@@ -95,6 +95,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "4ef38a7f05f1",
+      "title": "内閣府が利用するメール配信サービスにおける個人情報漏えい及びメールマガジンの配信停止について",
+      "url": "https://www.cao.go.jp/others/csi/security/20261111notice.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-11T13:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "271d6048fcc0",
@@ -693,18 +705,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-04T16:05+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "41141e7827a5",
-      "title": "訓練目的の共通担保資金供給オペの実施について",
-      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261104a.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-04T13:00+09:00",
       "categories": [
         "政策・統計"
       ],
