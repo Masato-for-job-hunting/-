@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T12:51+09:00",
-  "count": 58,
+  "updatedAt": "2026-11-12T13:55+09:00",
+  "count": 55,
   "errors": [
     "経済産業省"
   ],
@@ -678,43 +678,6 @@
       "published": "2026-11-05T16:00+09:00",
       "categories": [
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "65df026ea9df",
-      "title": "食品安全委員会（第1041回）の開催について【11月10日開催】",
-      "url": "https://www.fsc.go.jp/iinkai_annai/annai/annai1041.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-05T13:23+09:00",
-      "categories": [
-        "メーカー",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "dbc34582ca9e",
-      "title": "企画等専門調査会（第49回）の開催について【11月16日開催】",
-      "url": "https://www.fsc.go.jp/senmon/kikaku_tou/annai/kikaku_tou_annai_49.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-05T13:23+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "3d2ceb82fb7a",
-      "title": "動物用医薬品専門調査会（第292回）の開催について（非公開）【11月16日開催】",
-      "url": "https://www.fsc.go.jp/senmon/doubutu/annai/doubutu_annai_292.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-05T13:22+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
