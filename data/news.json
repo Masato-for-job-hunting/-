@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T16:07+09:00",
-  "count": 57,
+  "updatedAt": "2026-11-12T17:35+09:00",
+  "count": 60,
   "errors": [
     "経済産業省"
   ],
@@ -107,6 +107,46 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "f7110e9b5306",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "c90dd57db6a4",
+      "title": "バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」の公表について",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "企業戦略",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a0257e600806",
+      "title": "フェイルの発生状況（10月）",
+      "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T16:30+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "265ff926bc0a",
