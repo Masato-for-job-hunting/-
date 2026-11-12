@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-12T09:20+09:00",
-  "count": 57,
+  "updatedAt": "2026-11-12T10:49+09:00",
+  "count": 58,
   "errors": [
     "経済産業省"
   ],
   "items": [
+    {
+      "id": "1f6d98bedff8",
+      "title": "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T10:30+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 3
+    },
     {
       "id": "bf7b7e1e7f1f",
       "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
@@ -94,6 +107,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "e728d2ef71f2",
+      "title": "営業毎旬報告（11月10日現在）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "28bb6992b057",
@@ -516,18 +541,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-07T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "400cef4ac941",
-      "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
-      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261107a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-07T01:00+09:00",
       "categories": [
         "政策・統計"
       ],
