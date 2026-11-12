@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:21+09:00",
+  "updatedAt": "2026-11-12T09:20+09:00",
   "count": 57,
   "errors": [
     "経済産業省"
@@ -19,17 +19,16 @@
       "importance": 3
     },
     {
-      "id": "aef691cd53bc",
-      "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
-      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+      "id": "dd27367f612a",
+      "title": "企業物価指数（10月）",
+      "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
-      "published": "2026-11-05T08:50+09:00",
+      "published": "2026-11-12T08:50+09:00",
       "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
-      "importance": 3
+      "importance": 2
     },
     {
       "id": "b56c02991c5f",
@@ -95,6 +94,19 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "28bb6992b057",
+      "title": "「預金者別預金」（2026年9月）等の公表について",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-12T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "daf470ccc10f",
@@ -690,19 +702,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-05T13:22+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a39d9d5eca04",
-      "title": "日銀当座預金増減要因（11月見込み）",
-      "url": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-05T08:50+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
