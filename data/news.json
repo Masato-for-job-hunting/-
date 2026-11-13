@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T02:47+09:00",
-  "count": 54,
+  "updatedAt": "2026-11-14T03:47+09:00",
+  "count": 52,
   "errors": [
     "経済産業省"
   ],
@@ -644,30 +644,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1927c5414501",
-      "title": "採用,職員を募集しています。（モニタリング高度化に係るシステムに関する業務に従事する専門調査員（非常勤職員））",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-11/ginnsyou-11.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-07T03:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "b23297deabd7",
-      "title": "国際関係,「日ＥＵ合同金融規制フォーラム」第７回会合の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/etc/20261106/20261106.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-07T03:00+09:00",
       "categories": [
         "政策・統計"
       ],
