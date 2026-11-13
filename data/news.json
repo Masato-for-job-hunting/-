@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:05+09:00",
+  "updatedAt": "2026-11-13T17:21+09:00",
   "count": 54,
   "errors": [
     "経済産業省"
@@ -115,6 +115,18 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-14T01:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "11a09349e69e",
+      "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-13T16:30+09:00",
       "categories": [
         "政策・統計"
       ],
@@ -656,18 +668,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-07T03:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "0c5930aebc1e",
-      "title": "アイヌに関する世論調査",
-      "url": "https://survey.gov-online.go.jp",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-06T17:00+09:00",
       "categories": [
         "政策・統計"
       ],
