@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T12:50+09:00",
-  "count": 55,
+  "updatedAt": "2026-11-13T13:54+09:00",
+  "count": 54,
   "errors": [
     "経済産業省"
   ],
@@ -666,19 +666,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-06T16:00+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1ca534dd8cd3",
-      "title": "日本銀行金融研究所 ファイナンス・ワークショップの開催",
-      "url": "http://www.boj.or.jp/about/release_2026/rel261106a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-06T13:00+09:00",
       "categories": [
         "銀行・金利",
         "政策・統計"
