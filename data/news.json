@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-14T06:44+09:00",
+  "updatedAt": "2026-11-14T07:40+09:00",
   "count": 52,
   "errors": [
     "経済産業省"
   ],
   "items": [
     {
-      "id": "bc4fb0e0e4dc",
+      "id": "1f6d98bedff8",
       "title": "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）",
-      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T10:30+09:00",
@@ -19,9 +19,9 @@
       "importance": 3
     },
     {
-      "id": "f9645d8565ea",
+      "id": "bf7b7e1e7f1f",
       "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
-      "url": "https://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-10T08:50+09:00",
@@ -58,9 +58,9 @@
       "importance": 2
     },
     {
-      "id": "6850de555b35",
+      "id": "dd27367f612a",
       "title": "企業物価指数（10月）",
-      "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T08:50+09:00",
@@ -121,9 +121,9 @@
       "importance": 1
     },
     {
-      "id": "ae6aeb95fdad",
+      "id": "11a09349e69e",
       "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
-      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-13T16:30+09:00",
@@ -133,9 +133,9 @@
       "importance": 1
     },
     {
-      "id": "fb6e72647d1d",
+      "id": "20769df482cf",
       "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-13T16:00+09:00",
@@ -159,9 +159,9 @@
       "importance": 1
     },
     {
-      "id": "2e56236326cd",
+      "id": "f7110e9b5306",
       "title": "日本銀行が保有する国債の銘柄別残高",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261110.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T17:00+09:00",
@@ -173,9 +173,9 @@
       "importance": 1
     },
     {
-      "id": "f9bfd353b21f",
+      "id": "c90dd57db6a4",
       "title": "バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」の公表について",
-      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261112a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T17:00+09:00",
@@ -187,9 +187,9 @@
       "importance": 1
     },
     {
-      "id": "3be26351ccdc",
+      "id": "a0257e600806",
       "title": "フェイルの発生状況（10月）",
-      "url": "https://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/set/bffail/sjgb2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T16:30+09:00",
@@ -248,9 +248,9 @@
       "importance": 1
     },
     {
-      "id": "d135448e2460",
+      "id": "e728d2ef71f2",
       "title": "営業毎旬報告（11月10日現在）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T10:00+09:00",
@@ -260,9 +260,9 @@
       "importance": 1
     },
     {
-      "id": "5877cb1f4f0b",
+      "id": "28bb6992b057",
       "title": "「預金者別預金」（2026年9月）等の公表について",
-      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T08:50+09:00",
@@ -345,9 +345,9 @@
       "importance": 1
     },
     {
-      "id": "c5e826c5eb1c",
+      "id": "271d6048fcc0",
       "title": "マネーストック（10月）",
-      "url": "https://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-11T08:50+09:00",
@@ -526,9 +526,9 @@
       "importance": 1
     },
     {
-      "id": "1a35040dd52c",
+      "id": "7c195df73043",
       "title": "貸出・預金動向（10月）",
-      "url": "https://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-10T08:50+09:00",
@@ -563,9 +563,9 @@
       "importance": 1
     },
     {
-      "id": "d1b021f8f63f",
+      "id": "ee9a4ce0abd2",
       "title": "コール市場残高（10月）",
-      "url": "https://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "url": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T15:00+09:00",
@@ -576,9 +576,9 @@
       "importance": 1
     },
     {
-      "id": "e32008605595",
+      "id": "98534e3926dc",
       "title": "消費活動指数",
-      "url": "https://www.boj.or.jp/research/research_data/cai/index.htm",
+      "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T14:00+09:00",
@@ -612,9 +612,9 @@
       "importance": 1
     },
     {
-      "id": "b4846336043b",
+      "id": "7913f13edf96",
       "title": "マネタリーベースと日本銀行の取引（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
@@ -625,9 +625,9 @@
       "importance": 1
     },
     {
-      "id": "31ecca24fee8",
+      "id": "27ab275cb604",
       "title": "日本銀行の対政府取引（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+      "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
@@ -638,9 +638,9 @@
       "importance": 1
     },
     {
-      "id": "c1da177a228e",
+      "id": "367d09b59ce4",
       "title": "オペレーション（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-09T08:50+09:00",
