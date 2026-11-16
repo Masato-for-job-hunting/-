@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T13:05+09:00",
-  "count": 54,
+  "updatedAt": "2026-11-16T14:33+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
@@ -635,42 +635,6 @@
       "published": "2026-11-09T15:00+09:00",
       "categories": [
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "98534e3926dc",
-      "title": "消費活動指数",
-      "url": "http://www.boj.or.jp/research/research_data/cai/index.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T14:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "37e583c794b4",
-      "title": "「全国企業短期経済観測調査」における賃金項目の調査開始について",
-      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261109a.htm",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T14:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "eeb58e3b3c7f",
-      "title": "景気動向指数（令和8年9月分速報）",
-      "url": "https://www.esri.cao.go.jp/jp/stat/di/di.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T13:34+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
