@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T08:08+09:00",
-  "count": 52,
+  "updatedAt": "2026-11-16T09:16+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
@@ -107,6 +107,30 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "7181ea28b876",
+      "title": "長・短期プライムレート（主要行）の推移",
+      "url": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a64224040eb2",
+      "title": "四半期別ＧＤＰ速報（2026年7-9月期・1次速報）",
+      "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T08:31+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "80511f976ed0",
@@ -606,44 +630,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-09T13:34+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7913f13edf96",
-      "title": "マネタリーベースと日本銀行の取引（10月）",
-      "url": "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T08:50+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "27ab275cb604",
-      "title": "日本銀行の対政府取引（10月）",
-      "url": "http://www.boj.or.jp/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T08:50+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "367d09b59ce4",
-      "title": "オペレーション（10月）",
-      "url": "http://www.boj.or.jp/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T08:50+09:00",
       "categories": [
         "政策・統計"
       ],
