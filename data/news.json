@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T16:08+09:00",
-  "count": 50,
+  "updatedAt": "2026-11-16T19:02+09:00",
+  "count": 53,
   "errors": [
     "経済産業省"
   ],
@@ -44,6 +44,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "006ac58be1a3",
+      "title": "外国為替市況（11月16日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261116.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T17:45+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "48711de657b0",
@@ -110,17 +123,29 @@
       "importance": 2
     },
     {
-      "id": "a7945c328c8e",
-      "title": "外国為替市況（11月9日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261109.pdf",
-      "source": "日本銀行 統計",
+      "id": "97713095eb0f",
+      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
+      "source": "金融庁",
       "sourceType": "一次情報",
-      "published": "2026-11-09T17:40+09:00",
+      "published": "2026-11-17T02:00+09:00",
       "categories": [
-        "証券・市場",
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
+    },
+    {
+      "id": "766d8cb4e302",
+      "title": "国際関係,バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第２の柱ガイダンス」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261116/20261116.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-17T02:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "04c590d71441",
@@ -155,6 +180,44 @@
       "published": "2026-11-16T19:00+09:00",
       "categories": [
         "メーカー",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "2d9a4bdcb241",
+      "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第2の柱ガイダンス」の公表について",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "0b085df09217",
+      "title": "展望レポートのハイライト （2026年10月）",
+      "url": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T17:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "3040a8d6c46e",
+      "title": "業態別の日銀当座預金残高（10月）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T17:00+09:00",
+      "categories": [
+        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
@@ -475,30 +538,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-10T21:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "21a36415d767",
-      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月30日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261030-1.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T21:49+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "fdf226681228",
-      "title": "「無登録業者との取引は要注意！！～ 無登録業者との取引は高リスク ～」のページを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/chuui/highrisk.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T19:00+09:00",
       "categories": [
         "政策・統計"
       ],
