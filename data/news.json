@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-16T09:16+09:00",
-  "count": 51,
+  "updatedAt": "2026-11-16T10:57+09:00",
+  "count": 53,
   "errors": [
     "経済産業省"
   ],
@@ -109,6 +109,43 @@
       "importance": 2
     },
     {
+      "id": "04c590d71441",
+      "title": "その他,大手金融機関グループ等の取組状況（運用力向上・ガバナンス強化等）について更新しました。",
+      "url": "https://www.fsa.go.jp/policy/pjlamc/initiativesbythefinancialindustry/20240124.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "bdd3c70c5cbc",
+      "title": "その他,金融機関のEMPに係る取組事例一覧を更新しました。",
+      "url": "https://www.fsa.go.jp/policy/pjlamc/emp/examples_of_initiatives.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a057e59bfb09",
+      "title": "採用,職員を募集しています。（自動車運転手）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-16T19:00+09:00",
+      "categories": [
+        "メーカー",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "7181ea28b876",
       "title": "長・短期プライムレート（主要行）の推移",
       "url": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
@@ -128,6 +165,31 @@
       "sourceType": "一次情報",
       "published": "2026-11-16T08:31+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "03deb4054c96",
+      "title": "令和８年金融商品取引法等改正に係る政令・内閣府令案等（サステナビリティ情報の開示・保証、スタートアップ企業への資金供給の促進関係）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261113/20261113.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-14T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "15f39f40d74c",
+      "title": "「株式市場構造の在り方に関する有識者会議」（第１回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/kabushikishijoukouzou/shiryou/20261113.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-14T02:00+09:00",
+      "categories": [
+        "証券・市場",
         "政策・統計"
       ],
       "importance": 1
@@ -429,18 +491,6 @@
       "importance": 1
     },
     {
-      "id": "fc55b7b0a818",
-      "title": "採用,職員を募集しています。（保険会社等のモニタリング業務等に従事する職員【弁護士】）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/shiho-05/shiho-05.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T19:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
       "id": "31a1cd44f847",
       "title": "食事由来の化学物質のばく露評価ワーキンググループ（第14回）の開催について【11月18日開催】",
       "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_bakuro_annai_14.html",
@@ -558,30 +608,6 @@
       "published": "2026-11-10T08:50+09:00",
       "categories": [
         "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "275749db475b",
-      "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "caf9933f36f4",
-      "title": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20261109.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-09T23:00+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
