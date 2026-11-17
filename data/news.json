@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T17:37+09:00",
+  "updatedAt": "2026-11-17T18:58+09:00",
   "count": 45,
   "errors": [
     "経済産業省"
@@ -31,6 +31,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "b727078b21b3",
+      "title": "外国為替市況（11月17日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261117.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-17T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "006ac58be1a3",
@@ -90,19 +103,6 @@
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-11T17:40+09:00",
-      "categories": [
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "d7f658b10a51",
-      "title": "外国為替市況（11月10日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261110.pdf",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T17:40+09:00",
       "categories": [
         "証券・市場",
         "政策・統計"
