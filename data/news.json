@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T13:55+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-17T14:56+09:00",
+  "count": 43,
   "errors": [
     "経済産業省"
   ],
@@ -537,31 +537,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-10T21:50+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "31a1cd44f847",
-      "title": "食事由来の化学物質のばく露評価ワーキンググループ（第14回）の開催について【11月18日開催】",
-      "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_bakuro_annai_14.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T14:38+09:00",
-      "categories": [
-        "メーカー",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "6a4b0d4c89ca",
-      "title": "「短観（全国企業短期経済観測調査）」調査表および記入要領・記入例",
-      "url": "http://www.boj.or.jp/statistics/outline/exp/tk/extk01.htm",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T14:00+09:00",
       "categories": [
         "政策・統計"
       ],
