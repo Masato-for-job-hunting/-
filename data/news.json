@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T08:15+09:00",
-  "count": 53,
+  "updatedAt": "2026-11-17T09:15+09:00",
+  "count": 46,
   "errors": [
     "経済産業省"
   ],
@@ -26,19 +26,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T10:30+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 3
-    },
-    {
-      "id": "bf7b7e1e7f1f",
-      "title": "金融政策決定会合における主な意見（10月29、30日開催分）",
-      "url": "http://www.boj.or.jp/mopo/mpmsche_minu/opinion_2026/opi261030.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T08:50+09:00",
       "categories": [
         "銀行・金利",
         "政策・統計"
@@ -121,6 +108,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "733a191aa771",
+      "title": "「貸出先別貸出金」（2026年9月）等の公表について",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-17T08:50+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "97713095eb0f",
@@ -576,91 +575,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-10T10:58+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "2be8e38c58bd",
-      "title": "労働力調査（詳細集計）2026年（令和8年）7～9月期平均",
-      "url": "https://www.stat.go.jp/data/roudou/2.html#latest",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "af32deba6602",
-      "title": "データサイエンス・オンライン講座 「“わかる・使える”統計解析プログラミング」の受講者募集開始 ―令和9年1月12日新規開講―（PDF:725KB）",
-      "url": "https://www.stat.go.jp/info/guide/public/houdou/pdf/ho261110.pdf",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "9c493d04d184",
-      "title": "家計調査（二人以上の世帯：2026年（令和8年）9月分）",
-      "url": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "728f10c79f97",
-      "title": "家計調査（2026年（令和8年）7～9月期分）",
-      "url": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html#shihanki",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "84aca47e184c",
-      "title": "家計消費状況調査結果 支出関連項目：2026年（令和8年）9月分、7～9月期平均 ICT関連項目 ：2026年（令和8年）7～9月期平均",
-      "url": "https://www.stat.go.jp/data/joukyou/12.html",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "858a10d27adb",
-      "title": "2025年基準 消費動向指数（CTI）2026年（令和8年）9月分 及び 7～9月期平均",
-      "url": "https://www.stat.go.jp/data/cti/index2.html",
-      "source": "総務省統計局",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7c195df73043",
-      "title": "貸出・預金動向（10月）",
-      "url": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2610.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T08:50+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
