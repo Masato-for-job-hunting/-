@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-17T10:49+09:00",
-  "count": 46,
+  "updatedAt": "2026-11-17T11:50+09:00",
+  "count": 45,
   "errors": [
     "経済産業省"
   ],
@@ -562,18 +562,6 @@
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-10T14:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "393e2001bcd2",
-      "title": "景気ウォッチャー調査（令和8年10月調査）",
-      "url": "https://www5.cao.go.jp/keizai3/watcher_index.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-10T10:58+09:00",
       "categories": [
         "政策・統計"
       ],
