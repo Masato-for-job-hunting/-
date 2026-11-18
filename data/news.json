@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T12:52+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-18T13:57+09:00",
+  "count": 44,
   "errors": [
     "経済産業省"
   ],
@@ -551,18 +551,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-11T16:35+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "4ef38a7f05f1",
-      "title": "内閣府が利用するメール配信サービスにおける個人情報漏えい及びメールマガジンの配信停止について",
-      "url": "https://www.cao.go.jp/others/csi/security/20261111notice.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-11T13:00+09:00",
       "categories": [
         "政策・統計"
       ],
