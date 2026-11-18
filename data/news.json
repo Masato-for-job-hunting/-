@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T08:23+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-18T09:19+09:00",
+  "count": 44,
   "errors": [
     "経済産業省"
   ],
@@ -550,18 +550,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-11T13:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "271d6048fcc0",
-      "title": "マネーストック（10月）",
-      "url": "http://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-11T08:50+09:00",
       "categories": [
         "政策・統計"
       ],
