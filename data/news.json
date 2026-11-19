@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T09:20+09:00",
-  "count": 43,
+  "updatedAt": "2026-11-19T10:48+09:00",
+  "count": 42,
   "errors": [
     "経済産業省"
   ],
@@ -15,19 +15,6 @@
       "categories": [
         "銀行・金利",
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 3
-    },
-    {
-      "id": "1f6d98bedff8",
-      "title": "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）",
-      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T10:30+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 3
@@ -96,6 +83,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "df78d45e5f61",
+      "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
+      "url": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T10:13+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "6da4eb4daa99",
@@ -526,18 +525,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-12T13:14+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e728d2ef71f2",
-      "title": "営業毎旬報告（11月10日現在）",
-      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T10:00+09:00",
       "categories": [
         "政策・統計"
       ],
