@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T14:58+09:00",
-  "count": 38,
+  "updatedAt": "2026-11-19T16:08+09:00",
+  "count": 43,
   "errors": [
     "経済産業省"
   ],
@@ -83,6 +83,68 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "049732c16602",
+      "title": "実質輸出入の動向",
+      "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T16:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "afa003b81c6e",
+      "title": "第15回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月26日開催】",
+      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/015/kaisai/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T15:40+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "36a724197ff2",
+      "title": "食品安全委員会（第1043回）の開催について【11月24日開催】",
+      "url": "https://www.fsc.go.jp/iinkai_annai/annai/annai1043.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T13:35+09:00",
+      "categories": [
+        "メーカー",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "ad4ad8259758",
+      "title": "農薬第二専門調査会（第56回）の開催について（非公開）【11月27日開催】",
+      "url": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai2_senmon_56.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T13:35+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "25040eb2504f",
+      "title": "微生物・ウイルス専門調査会（第101回）の開催について【11月30日開催】",
+      "url": "https://www.fsc.go.jp/senmon/biseibutu_virus/annai/biseibutu-virus_annai_101.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T13:35+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "df78d45e5f61",
