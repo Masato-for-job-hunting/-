@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T08:21+09:00",
-  "count": 44,
+  "updatedAt": "2026-11-19T09:20+09:00",
+  "count": 43,
   "errors": [
     "経済産業省"
   ],
@@ -98,16 +98,16 @@
       "importance": 2
     },
     {
-      "id": "dd27367f612a",
-      "title": "企業物価指数（10月）",
-      "url": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
-      "source": "日本銀行",
+      "id": "6da4eb4daa99",
+      "title": "機械受注統計調査報告（令和8年9月実績および令和8年10～12月見通し）",
+      "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
+      "source": "内閣府",
       "sourceType": "一次情報",
-      "published": "2026-11-12T08:50+09:00",
+      "published": "2026-11-19T08:26+09:00",
       "categories": [
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
     },
     {
       "id": "34fb104aedef",
@@ -539,19 +539,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-12T10:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "28bb6992b057",
-      "title": "「預金者別預金」（2026年9月）等の公表について",
-      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T08:50+09:00",
-      "categories": [
-        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
