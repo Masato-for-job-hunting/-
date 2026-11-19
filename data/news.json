@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T17:42+09:00",
-  "count": 39,
+  "updatedAt": "2026-11-19T19:00+09:00",
+  "count": 40,
   "errors": [
     "経済産業省"
   ],
@@ -18,6 +18,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "c96bdc9c0519",
+      "title": "外国為替市況（11月19日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261119.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T17:50+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "05753f3a412a",
