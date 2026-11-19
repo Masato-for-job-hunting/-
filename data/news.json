@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-19T12:53+09:00",
-  "count": 42,
+  "updatedAt": "2026-11-19T13:59+09:00",
+  "count": 38,
   "errors": [
     "経済産業省"
   ],
@@ -476,55 +476,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-12T16:30+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "265ff926bc0a",
-      "title": "食品安全委員会（第1042回）の開催について【11月17日開催】",
-      "url": "https://www.fsc.go.jp/iinkai_annai/annai/annai1042.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T13:15+09:00",
-      "categories": [
-        "メーカー",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "0d111923c4de",
-      "title": "農薬第四専門調査会（第53回）の開催について（非公開）【11月19日開催】",
-      "url": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai4_senmon_53.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T13:15+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "24573b085825",
-      "title": "器具・容器包装専門調査会（第61回）の開催について【11月20日開催】",
-      "url": "https://www.fsc.go.jp/senmon/kiguyouki/annai/kigu_youki_annai_61.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T13:14+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "03cfbef95a39",
-      "title": "農薬第一専門調査会（第55回）の開催について（非公開）【11月20日開催】",
-      "url": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai1_senmon_55.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-12T13:14+09:00",
       "categories": [
         "政策・統計"
       ],
