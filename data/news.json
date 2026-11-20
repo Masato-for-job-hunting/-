@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T12:50+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-20T13:56+09:00",
+  "count": 46,
   "errors": [
     "経済産業省"
   ],
@@ -128,6 +128,18 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-20T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "58a392ccc855",
+      "title": "情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」開催のお知らせ",
+      "url": "http://www.boj.or.jp/about/release_2026/rel261120a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T13:00+09:00",
       "categories": [
         "政策・統計"
       ],
