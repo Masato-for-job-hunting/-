@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T13:56+09:00",
-  "count": 46,
+  "updatedAt": "2026-11-20T14:58+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
@@ -162,6 +162,66 @@
       "title": "報告省令レート（12月分）",
       "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
       "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4875e5da469b",
+      "title": "人口推計（2026年（令和8年）11月報）",
+      "url": "https://www.stat.go.jp/data/jinsui/new.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "c210d115e667",
+      "title": "第76回日本統計年鑑",
+      "url": "https://www.stat.go.jp/data/nenkan/index1.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "ad236b499b34",
+      "title": "「統計調査ニュース」（統計局発行の広報紙）令和8年11月号",
+      "url": "https://www.stat.go.jp/info/t-news/index.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "5d20803180c8",
+      "title": "統計Today No.211 売上高から見えてくる地域産業～ 2025年経済構造実態調査三次集計結果から ～（PDF：588KB）",
+      "url": "https://www.stat.go.jp/info/today/pdf/211.pdf",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "2dcc1ce52860",
+      "title": "統計Today No.212 サービス産業動態統計調査のこれまでとこれから～サービス産業の変化を、より早く、より的確に捉えるために～（PDF：812KB）",
+      "url": "https://www.stat.go.jp/info/today/pdf/212.pdf",
+      "source": "総務省統計局",
       "sourceType": "一次情報",
       "published": "2026-11-20T09:00+09:00",
       "categories": [
