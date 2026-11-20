@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-20T09:15+09:00",
+  "updatedAt": "2026-11-20T10:45+09:00",
   "count": 44,
   "errors": [
     "経済産業省"
   ],
   "items": [
     {
-      "id": "3e278129bb91",
+      "id": "0db5aa9752e2",
       "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
-      "url": "https://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-16T13:00+09:00",
@@ -20,9 +20,9 @@
       "importance": 3
     },
     {
-      "id": "83432de8f3c2",
+      "id": "ce4b0f5ebbe9",
       "title": "基準外国為替相場及び裁定外国為替相場（12月分）",
-      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2612.htm",
+      "url": "http://www.boj.or.jp/about/services/tame/tame_rate/kijun/kiju2612.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-20T09:00+09:00",
@@ -122,9 +122,21 @@
       "importance": 2
     },
     {
-      "id": "9021deb9a947",
+      "id": "e59077133fe6",
+      "title": "金融庁広報誌アクセスＦＳＡ第279号（2026年11月号）を発行しました。",
+      "url": "https://www.fsa.go.jp/access/index.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "d3b539f73473",
       "title": "報告省令レート（12月分）",
-      "url": "https://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
+      "url": "http://www.boj.or.jp/about/services/tame/tame_rate/syorei/hou2612.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-20T09:00+09:00",
@@ -134,9 +146,45 @@
       "importance": 1
     },
     {
-      "id": "73439a561ea2",
+      "id": "012a40adc3fa",
+      "title": "事業者支援の促進及び金融の円滑化について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T04:30+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "7e367d795c34",
+      "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-04/kikaku-04.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4b43c04b9751",
+      "title": "採用,職員を募集しています。（金融モニタリング業務（顧客本位の業務運営実践状況等に係る分析・対話等業務）に従事する職員）",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-13/ginnsyou-13.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "049732c16602",
       "title": "実質輸出入の動向",
-      "url": "https://www.boj.or.jp/research/research_data/reri/index.htm",
+      "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-19T16:00+09:00",
@@ -196,9 +244,9 @@
       "importance": 1
     },
     {
-      "id": "5d635cb0f149",
+      "id": "df78d45e5f61",
       "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
-      "url": "https://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+      "url": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-19T10:13+09:00",
@@ -220,9 +268,59 @@
       "importance": 1
     },
     {
-      "id": "5b1e6ff3a473",
+      "id": "027aa2f2204c",
+      "title": "国際関係,証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T03:14+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "2950b79bf93c",
+      "title": "国際関係,金融安定理事会による本会合議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261118/20261118.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "807e9c86459a",
+      "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-19T00:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "84a11a17628d",
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月17日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261117-1.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-18T23:59+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "34fb104aedef",
       "title": "金融安定理事会による本会合議事要旨の公表について",
-      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
+      "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-18T17:00+09:00",
@@ -232,9 +330,9 @@
       "importance": 1
     },
     {
-      "id": "564ebe1911af",
+      "id": "a1967e084165",
       "title": "市場レベルBCP・3市場合同訓練を実施",
-      "url": "https://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
+      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-18T10:00+09:00",
@@ -282,8 +380,8 @@
       "importance": 1
     },
     {
-      "id": "4efc04c18fd5",
-      "title": "IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
+      "id": "3431772a76b4",
+      "title": "国際関係,IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
       "url": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
       "source": "金融庁",
       "sourceType": "一次情報",
@@ -331,9 +429,9 @@
       "importance": 1
     },
     {
-      "id": "76536bbc54c2",
+      "id": "273a6bf06bf3",
       "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
-      "url": "https://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
+      "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-17T17:00+09:00",
@@ -356,9 +454,9 @@
       "importance": 1
     },
     {
-      "id": "649d7a62792c",
+      "id": "733a191aa771",
       "title": "「貸出先別貸出金」（2026年9月）等の公表について",
-      "url": "https://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-17T08:50+09:00",
@@ -368,71 +466,9 @@
       "importance": 1
     },
     {
-      "id": "97713095eb0f",
-      "title": "その他,つみたて投資枠対象商品届出一覧及びつみたて投資枠対象商品の概要を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/nisa2/products/index.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "766d8cb4e302",
-      "title": "国際関係,バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第２の柱ガイダンス」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/bis/20261116/20261116.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T02:00+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "04c590d71441",
-      "title": "その他,大手金融機関グループ等の取組状況（運用力向上・ガバナンス強化等）について更新しました。",
-      "url": "https://www.fsa.go.jp/policy/pjlamc/initiativesbythefinancialindustry/20240124.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T19:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "bdd3c70c5cbc",
-      "title": "その他,金融機関のEMPに係る取組事例一覧を更新しました。",
-      "url": "https://www.fsa.go.jp/policy/pjlamc/emp/examples_of_initiatives.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T19:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a057e59bfb09",
-      "title": "採用,職員を募集しています。（自動車運転手）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/kanri-01/kanri-01.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T19:00+09:00",
-      "categories": [
-        "メーカー",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "27755a8ebdd9",
+      "id": "2d9a4bdcb241",
       "title": "バーゼル銀行監督委員会による市中協議文書「銀行勘定の金利リスクに関する追加的な第2の柱ガイダンス」の公表について",
-      "url": "https://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261116a.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-16T17:00+09:00",
@@ -443,9 +479,9 @@
       "importance": 1
     },
     {
-      "id": "2cbf287e6fce",
+      "id": "0b085df09217",
       "title": "展望レポートのハイライト （2026年10月）",
-      "url": "https://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
+      "url": "http://www.boj.or.jp/mopo/outlook/highlight/ten202610.htm",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-16T17:00+09:00",
@@ -455,9 +491,9 @@
       "importance": 1
     },
     {
-      "id": "d217cb4e0c03",
+      "id": "3040a8d6c46e",
       "title": "業態別の日銀当座預金残高（10月）",
-      "url": "https://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "url": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-16T17:00+09:00",
@@ -492,46 +528,9 @@
       "importance": 1
     },
     {
-      "id": "03deb4054c96",
-      "title": "令和８年金融商品取引法等改正に係る政令・内閣府令案等（サステナビリティ情報の開示・保証、スタートアップ企業への資金供給の促進関係）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/shouken/20261113/20261113.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-14T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "15f39f40d74c",
-      "title": "「株式市場構造の在り方に関する有識者会議」（第１回）議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/kabushikishijoukouzou/shiryou/20261113.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-14T02:00+09:00",
-      "categories": [
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "80511f976ed0",
-      "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
-      "url": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-14T01:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "ae6aeb95fdad",
+      "id": "11a09349e69e",
       "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
-      "url": "https://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-13T16:30+09:00",
@@ -541,9 +540,9 @@
       "importance": 1
     },
     {
-      "id": "fb6e72647d1d",
+      "id": "20769df482cf",
       "title": "被災地金融機関を支援するための資金供給オペレーションの実施結果",
-      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
+      "url": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr261113a.pdf",
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-13T16:00+09:00",
