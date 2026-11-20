@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-20T10:45+09:00",
-  "count": 44,
+  "updatedAt": "2026-11-20T11:49+09:00",
+  "count": 45,
   "errors": [
     "経済産業省"
   ],
@@ -128,6 +128,18 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-20T19:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "7bfa5a975812",
+      "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
+      "url": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T11:00+09:00",
       "categories": [
         "政策・統計"
       ],
