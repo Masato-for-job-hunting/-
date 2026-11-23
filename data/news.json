@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:14+09:00",
+  "updatedAt": "2026-11-23T10:52+09:00",
   "count": 50,
   "errors": [
     "経済産業省"
@@ -120,6 +120,30 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "2945a7c2462a",
+      "title": "その他,令和８年９月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
+      "url": "https://www.fsa.go.jp/common/ronten/index.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-21T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "6dbfa08cc596",
+      "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催について更新しました。",
+      "url": "https://www.fsa.go.jp/news/r8/sonota/20261020/20261020.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-20T20:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "e59077133fe6",
@@ -516,30 +540,6 @@
       "id": "dee8b21c29f3",
       "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
       "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T23:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "1f922e4b612a",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T23:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "020290afe3b9",
-      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月13日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261113-1.html",
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-17T23:00+09:00",
