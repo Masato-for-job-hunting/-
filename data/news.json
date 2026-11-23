@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-23T08:15+09:00",
-  "count": 52,
+  "updatedAt": "2026-11-23T09:14+09:00",
+  "count": 50,
   "errors": [
     "経済産業省"
   ],
@@ -619,30 +619,6 @@
       "published": "2026-11-16T17:00+09:00",
       "categories": [
         "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7181ea28b876",
-      "title": "長・短期プライムレート（主要行）の推移",
-      "url": "http://www.boj.or.jp/statistics/dl/loan/prime/prime.htm",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a64224040eb2",
-      "title": "四半期別ＧＤＰ速報（2026年7-9月期・1次速報）",
-      "url": "https://www.esri.cao.go.jp/jp/sna/menu.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T08:31+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
