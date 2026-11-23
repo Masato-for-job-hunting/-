@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T07:50+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-24T08:47+09:00",
+  "count": 46,
   "errors": [
     "経済産業省"
   ],
@@ -93,6 +93,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "cf51f83b9272",
+      "title": "サービス産業動態統計調査（2026年（令和8年）9月分速報、2026年（令和8年）6月分確報）",
+      "url": "https://www.stat.go.jp/data/mbss/kekka.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "2945a7c2462a",
