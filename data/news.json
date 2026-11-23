@@ -1,24 +1,10 @@
 {
-  "updatedAt": "2026-11-23T12:58+09:00",
-  "count": 50,
+  "updatedAt": "2026-11-23T14:14+09:00",
+  "count": 49,
   "errors": [
     "経済産業省"
   ],
   "items": [
-    {
-      "id": "0db5aa9752e2",
-      "title": "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）",
-      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-16T13:00+09:00",
-      "categories": [
-        "銀行・金利",
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 3
-    },
     {
       "id": "18bb9458f83a",
       "title": "外国為替市況（11月20日）",
