@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T09:59+09:00",
-  "count": 46,
+  "updatedAt": "2026-11-24T11:14+09:00",
+  "count": 45,
   "errors": [
     "経済産業省"
   ],
@@ -161,18 +161,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-20T17:05+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "e4adfaed9633",
-      "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
-      "url": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T16:00+09:00",
       "categories": [
         "政策・統計"
       ],
