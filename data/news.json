@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T14:34+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-24T15:27+09:00",
+  "count": 47,
   "errors": [
     "経済産業省"
   ],
@@ -93,6 +93,78 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "2ceab9318a2c",
+      "title": "移行期間特例業務の時限措置終了に伴い「海外投資家等特例業務を行うみなさまへ」のページを更新しました。",
+      "url": "https://www.fsa.go.jp/common/shinsei/spbfitp/index.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "41e6e34d0c9b",
+      "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/shouken/20261124/20261124.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T00:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "f71248870bf1",
+      "title": "採用,期間業務職員（事務補佐員）を募集しています。",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanbohisyo-01/kanbohisyo-01.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T23:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "bc8ca7e4771e",
+      "title": "採用,非常勤職員（事務補佐員【障害者】）を募集しています。",
+      "url": "https://www.fsa.go.jp/common/recruit/r8/kanbohisyo-02/kanbohisyo-02.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T23:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4be07445a1d9",
+      "title": "評価技術企画ワーキンググループ（第40回）の開催について【12月2日開催】",
+      "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_gijutsukikaku_annai_40.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T14:56+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4586c1fbe2e5",
+      "title": "農薬第五専門調査会（第52回）の開催について（非公開）【12月2日開催】",
+      "url": "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai5_senmon_52.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T14:56+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "302ee0ce3e6d",
@@ -490,56 +562,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-18T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "c16431f5845d",
-      "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T02:00+09:00",
-      "categories": [
-        "企業戦略",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a43db15de341",
-      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
-      "url": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "3431772a76b4",
-      "title": "国際関係,IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T02:00+09:00",
-      "categories": [
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "dee8b21c29f3",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T23:00+09:00",
       "categories": [
         "政策・統計"
       ],
