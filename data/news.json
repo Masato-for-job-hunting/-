@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-24T16:54+09:00",
-  "count": 47,
+  "updatedAt": "2026-11-24T17:59+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
   "items": [
+    {
+      "id": "d5367dc8e89f",
+      "title": "外国為替市況（11月24日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261124.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
     {
       "id": "18bb9458f83a",
       "title": "外国為替市況（11月20日）",
@@ -82,17 +95,54 @@
       "importance": 2
     },
     {
-      "id": "b727078b21b3",
-      "title": "外国為替市況（11月17日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261117.pdf",
-      "source": "日本銀行 統計",
+      "id": "e848382433f5",
+      "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
+      "url": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
+      "source": "金融庁",
       "sourceType": "一次情報",
-      "published": "2026-11-17T17:40+09:00",
+      "published": "2026-11-25T02:00+09:00",
       "categories": [
-        "証券・市場",
+        "IT・通信",
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
+    },
+    {
+      "id": "861e9a904599",
+      "title": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "7a47f70b800d",
+      "title": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
+      "url": "https://www.fsa.go.jp/inter/bis/20261124/20261124.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T02:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "82c67a524c9d",
+      "title": "令和８年11月20日からの大雪に係る災害等に対する金融上の措置について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261124.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T01:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "2ceab9318a2c",
@@ -143,6 +193,19 @@
       "importance": 1
     },
     {
+      "id": "c3ce68aca56e",
+      "title": "バーゼル銀行監督委員会による議事要旨の公表について",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261124a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "c463bbdf464c",
       "title": "日本銀行政策委員会月報（令和8年10月号）",
       "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
@@ -151,6 +214,18 @@
       "published": "2026-11-24T16:30+09:00",
       "categories": [
         "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "9c25deccbbed",
+      "title": "月例経済報告（11月）",
+      "url": "https://www5.cao.go.jp/keizai3/getsurei/getsurei-index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T16:03+09:00",
+      "categories": [
         "政策・統計"
       ],
       "importance": 1
@@ -495,43 +570,6 @@
       "importance": 1
     },
     {
-      "id": "2950b79bf93c",
-      "title": "国際関係,金融安定理事会による本会合議事要旨について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/fsf/20261118/20261118.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "807e9c86459a",
-      "title": "「銀行法施行規則」等、「自己資本比率規制（第１の柱・第３の柱）に関する告示」等及び「主要行等向けの総合的な監督指針」等の一部改正（案）について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261118.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T00:00+09:00",
-      "categories": [
-        "銀行・金利",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "84a11a17628d",
-      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月17日）について掲載しました。",
-      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261117-1.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T23:59+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
       "id": "34fb104aedef",
       "title": "金融安定理事会による本会合議事要旨の公表について",
       "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
@@ -552,31 +590,6 @@
       "published": "2026-11-18T10:00+09:00",
       "categories": [
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "bc072e9668f3",
-      "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T02:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "273a6bf06bf3",
-      "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
-      "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T17:00+09:00",
-      "categories": [
-        "企業戦略",
         "政策・統計"
       ],
       "importance": 1
