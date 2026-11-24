@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-24T12:26+09:00",
-  "count": 45,
+  "updatedAt": "2026-11-24T13:36+09:00",
+  "count": 46,
   "errors": [
     "経済産業省"
   ],
@@ -93,6 +93,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "302ee0ce3e6d",
+      "title": "令和8年11月20日からの大雪に係る災害等に対する金融上の措置について（福島県）",
+      "url": "http://www.boj.or.jp/about/bcp/fso/fso261124a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T13:30+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "cf51f83b9272",
