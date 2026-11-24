@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:27+09:00",
+  "updatedAt": "2026-11-24T16:54+09:00",
   "count": 47,
   "errors": [
     "経済産業省"
@@ -138,6 +138,19 @@
       "sourceType": "一次情報",
       "published": "2026-11-24T23:00+09:00",
       "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "c463bbdf464c",
+      "title": "日本銀行政策委員会月報（令和8年10月号）",
+      "url": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T16:30+09:00",
+      "categories": [
+        "銀行・金利",
         "政策・統計"
       ],
       "importance": 1
@@ -451,18 +464,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-19T13:35+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "df78d45e5f61",
-      "title": "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）",
-      "url": "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T10:13+09:00",
       "categories": [
         "政策・統計"
       ],
