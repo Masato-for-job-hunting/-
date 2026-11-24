@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:47+09:00",
+  "updatedAt": "2026-11-24T09:59+09:00",
   "count": 46,
   "errors": [
     "経済産業省"
@@ -101,6 +101,18 @@
       "source": "総務省統計局",
       "sourceType": "一次情報",
       "published": "2026-11-24T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "ac9ae34451b3",
+      "title": "FSBレポ統計の日本分集計結果",
+      "url": "http://www.boj.or.jp/statistics/bis/repo/index.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-24T08:50+09:00",
       "categories": [
         "政策・統計"
       ],
@@ -553,18 +565,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-17T13:44+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "733a191aa771",
-      "title": "「貸出先別貸出金」（2026年9月）等の公表について",
-      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-17T08:50+09:00",
       "categories": [
         "政策・統計"
       ],
