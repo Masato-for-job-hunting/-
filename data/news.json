@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T07:52+09:00",
-  "count": 50,
+  "updatedAt": "2026-11-26T08:47+09:00",
+  "count": 49,
   "errors": [
     "経済産業省"
   ],
@@ -602,18 +602,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-19T13:35+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "6da4eb4daa99",
-      "title": "機械受注統計調査報告（令和8年9月実績および令和8年10～12月見通し）",
-      "url": "https://www.esri.cao.go.jp/jp/stat/juchu/juchu.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T08:26+09:00",
       "categories": [
         "政策・統計"
       ],
