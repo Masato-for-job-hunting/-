@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-11-25T13:40+09:00",
-  "count": 50,
+  "updatedAt": "2026-11-25T14:58+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
   "items": [
+    {
+      "id": "d1ab14ca66d0",
+      "title": "消費者物価のコア指標",
+      "url": "http://www.boj.or.jp/research/research_data/cpi/index.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T14:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
     {
       "id": "d5367dc8e89f",
       "title": "外国為替市況（11月24日）",
