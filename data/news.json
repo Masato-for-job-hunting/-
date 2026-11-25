@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-25T08:47+09:00",
-  "count": 48,
+  "updatedAt": "2026-11-25T10:05+09:00",
+  "count": 50,
   "errors": [
     "経済産業省"
   ],
@@ -93,6 +93,43 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "3986783a89cd",
+      "title": "営業毎旬報告（11月20日現在）",
+      "url": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261120.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T10:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "be8af915bb62",
+      "title": "貸出約定平均金利（9月）",
+      "url": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2609.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T08:50+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "e4c1d328e210",
+      "title": "企業向けサービス価格指数（10月）",
+      "url": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2610.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T08:50+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "e848382433f5",
@@ -577,19 +614,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-18T17:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "a1967e084165",
-      "title": "市場レベルBCP・3市場合同訓練を実施",
-      "url": "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T10:00+09:00",
-      "categories": [
-        "証券・市場",
         "政策・統計"
       ],
       "importance": 1
