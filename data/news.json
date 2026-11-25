@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T02:48+09:00",
-  "count": 51,
+  "updatedAt": "2026-11-26T03:49+09:00",
+  "count": 50,
   "errors": [
     "経済産業省"
   ],
@@ -615,19 +615,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-19T08:26+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "027aa2f2204c",
-      "title": "国際関係,証券監督者国際機構（IOSCO）による「市場仲介業者（証券会社等）の個人顧客を標的とした詐欺の増加に係る声明」について公表しました。",
-      "url": "https://www.fsa.go.jp/inter/ios/20261118/20261118.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T03:14+09:00",
-      "categories": [
-        "証券・市場",
         "政策・統計"
       ],
       "importance": 1
