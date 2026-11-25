@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-25T16:12+09:00",
+  "updatedAt": "2026-11-25T17:48+09:00",
   "count": 51,
   "errors": [
     "経済産業省"
   ],
   "items": [
+    {
+      "id": "fb0bedab173d",
+      "title": "外国為替市況（11月25日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261125.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-25T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
+    },
     {
       "id": "d1ab14ca66d0",
       "title": "消費者物価のコア指標",
@@ -94,17 +107,18 @@
       "importance": 2
     },
     {
-      "id": "05753f3a412a",
-      "title": "外国為替市況（11月18日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261118.pdf",
-      "source": "日本銀行 統計",
+      "id": "c251f289351c",
+      "title": "日本銀行が保有する国債の銘柄別残高",
+      "url": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+      "source": "日本銀行",
       "sourceType": "一次情報",
-      "published": "2026-11-18T17:40+09:00",
+      "published": "2026-11-25T17:00+09:00",
       "categories": [
+        "銀行・金利",
         "証券・市場",
         "政策・統計"
       ],
-      "importance": 2
+      "importance": 1
     },
     {
       "id": "3986783a89cd",
@@ -614,18 +628,6 @@
       "published": "2026-11-19T03:14+09:00",
       "categories": [
         "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "34fb104aedef",
-      "title": "金融安定理事会による本会合議事要旨の公表について",
-      "url": "http://www.boj.or.jp/intl_finance/meeting/group/gro261118a.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-18T17:00+09:00",
-      "categories": [
         "政策・統計"
       ],
       "importance": 1
