@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-11-26T08:47+09:00",
-  "count": 49,
+  "updatedAt": "2026-11-26T10:05+09:00",
+  "count": 52,
   "errors": [
     "経済産業省"
   ],
   "items": [
+    {
+      "id": "adf7c7e9e36b",
+      "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（山梨）",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261126a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T10:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 3
+    },
     {
       "id": "fb0bedab173d",
       "title": "外国為替市況（11月25日）",
@@ -105,6 +118,31 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "3f120b227498",
+      "title": "「民間金融機関の資産・負債」の訂正について",
+      "url": "http://www.boj.or.jp/statistics/outline/notice_2026/not261126a.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T08:50+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "4a1783d0d781",
+      "title": "（統計の注釈）量的金融指標（市場規模・残高等）／金融機関の資産・負債等",
+      "url": "http://www.boj.or.jp/statistics/outline/note/notest32.htm",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T08:50+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "c251f289351c",
