@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T14:58+09:00",
-  "count": 51,
+  "updatedAt": "2026-11-26T16:11+09:00",
+  "count": 53,
   "errors": [
     "経済産業省"
   ],
@@ -118,6 +118,57 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "a749f4d43fe5",
+      "title": "令和8年度上半期末の日本銀行保有外貨資産の残高",
+      "url": "http://www.boj.or.jp/statistics/boj/other/other_gai/gai2609.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T16:10+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "aaecc45ed42e",
+      "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
+      "url": "http://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T16:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "75c51184d821",
+      "title": "食品安全委員会（第1044回）の開催について【12月1日開催】",
+      "url": "https://www.fsc.go.jp/iinkai_annai/annai/annai1044.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T14:36+09:00",
+      "categories": [
+        "メーカー",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "a520c841623e",
+      "title": "ビスフェノールAワーキンググループ（第8回）の開催について【12月3日開催】",
+      "url": "https://www.fsc.go.jp/senmon/sonota/annai/wg_bpa_annai_8.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T14:31+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "71d237705830",
@@ -603,31 +654,6 @@
       "sourceType": "一次情報",
       "published": "2026-11-20T00:00+09:00",
       "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "049732c16602",
-      "title": "実質輸出入の動向",
-      "url": "http://www.boj.or.jp/research/research_data/reri/index.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T16:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "afa003b81c6e",
-      "title": "第15回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月26日開催】",
-      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/015/kaisai/index.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-19T15:40+09:00",
-      "categories": [
-        "IT・通信",
         "政策・統計"
       ],
       "importance": 1
