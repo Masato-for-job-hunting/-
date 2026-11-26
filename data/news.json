@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T16:11+09:00",
-  "count": 53,
+  "updatedAt": "2026-11-26T17:45+09:00",
+  "count": 56,
   "errors": [
     "経済産業省"
   ],
@@ -17,6 +17,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "6d132de435c4",
+      "title": "外国為替市況（11月26日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261126.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "fb0bedab173d",
@@ -120,6 +133,68 @@
       "importance": 2
     },
     {
+      "id": "685f5f13a826",
+      "title": "貸金業関係資料集について掲載しました。",
+      "url": "https://www.fsa.go.jp/status/kasikin/20261126/index.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T02:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "fc916974abbe",
+      "title": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
+      "url": "https://www.fsa.go.jp/inter/fsf/20261126/20261126.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T02:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "dc6a3c78e60c",
+      "title": "その他,無登録で金融商品取引業を行う者の名称等について更新しました。",
+      "url": "https://www.fsa.go.jp/ordinary/chuui/mutouroku.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T20:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "d4fbe33eefab",
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月20日）について掲載しました。",
+      "url": "https://www.fsa.go.jp/common/conference/minister/2026b/20261120-1.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T18:37+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "5535c04cfdf9",
+      "title": "金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」の公表について",
+      "url": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261126a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T17:00+09:00",
+      "categories": [
+        "銀行・金利",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
       "id": "a749f4d43fe5",
       "title": "令和8年度上半期末の日本銀行保有外貨資産の残高",
       "url": "http://www.boj.or.jp/statistics/boj/other/other_gai/gai2609.pdf",
@@ -215,6 +290,18 @@
       "published": "2026-11-26T08:50+09:00",
       "categories": [
         "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "add5b280b312",
+      "title": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催について公表しました。",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261125.html",
+      "source": "金融庁",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T01:00+09:00",
+      "categories": [
         "政策・統計"
       ],
       "importance": 1
@@ -491,18 +578,6 @@
       "importance": 1
     },
     {
-      "id": "e59077133fe6",
-      "title": "金融庁広報誌アクセスＦＳＡ第279号（2026年11月号）を発行しました。",
-      "url": "https://www.fsa.go.jp/access/index.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T19:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
       "id": "9d14486706bc",
       "title": "外交に関する世論調査",
       "url": "https://survey.gov-online.go.jp",
@@ -617,42 +692,6 @@
       "source": "総務省統計局",
       "sourceType": "一次情報",
       "published": "2026-11-20T09:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "012a40adc3fa",
-      "title": "事業者支援の促進及び金融の円滑化について公表しました。",
-      "url": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T04:30+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7e367d795c34",
-      "title": "採用,職員を募集しています。（国内金融に関する制度の企画及び立案等に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/kikaku-04/kikaku-04.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T00:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "4b43c04b9751",
-      "title": "採用,職員を募集しています。（金融モニタリング業務（顧客本位の業務運営実践状況等に係る分析・対話等業務）に従事する職員）",
-      "url": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-13/ginnsyou-13.html",
-      "source": "金融庁",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T00:00+09:00",
       "categories": [
         "政策・統計"
       ],
