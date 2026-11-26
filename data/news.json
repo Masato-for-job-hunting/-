@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T07:53+09:00",
-  "count": 55,
+  "updatedAt": "2026-11-27T08:53+09:00",
+  "count": 57,
   "errors": [
     "経済産業省"
   ],
@@ -17,6 +17,30 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "3df584ed4b1f",
+      "title": "消費者物価指数（東京都区部－2026年（令和8年）11月分中旬速報値）（2025年基準）",
+      "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-t.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
+    },
+    {
+      "id": "12e8a74f28e1",
+      "title": "小売物価統計調査 主要品目の東京都区部小売価格及び全国統一価格品目の価格（2026年11月分）",
+      "url": "https://www.stat.go.jp/data/kouri/doukou/3.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "6d132de435c4",
