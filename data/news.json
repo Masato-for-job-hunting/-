@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T13:38+09:00",
-  "count": 49,
+  "updatedAt": "2026-11-26T14:58+09:00",
+  "count": 51,
   "errors": [
     "経済産業省"
   ],
@@ -118,6 +118,30 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "71d237705830",
+      "title": "景気動向指数（令和8年9月分速報からの改訂状況）",
+      "url": "https://www.esri.cao.go.jp/jp/stat/di/di.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T13:18+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "01d6691644e6",
+      "title": "住民基本台帳人口移動報告 2026年（令和8年）10月分",
+      "url": "https://www.stat.go.jp/data/idou/sokuhou/tsuki/index.html",
+      "source": "総務省統計局",
+      "sourceType": "一次情報",
+      "published": "2026-11-26T09:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "3f120b227498",
