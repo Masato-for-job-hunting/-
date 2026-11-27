@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T14:59+09:00",
-  "count": 48,
+  "updatedAt": "2026-11-27T16:12+09:00",
+  "count": 49,
   "errors": [
     "経済産業省"
   ],
@@ -105,6 +105,31 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "04f0a66530d7",
+      "title": "【記者会見】田村審議委員（山梨、11月26日分）",
+      "url": "http://www.boj.or.jp/about/press/kaiken_2026/kk261127a.pdf",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T16:00+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
+    },
+    {
+      "id": "cd0dd2ff8213",
+      "title": "第15回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月26日開催】",
+      "url": "https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/015/shiryou/index.html",
+      "source": "内閣府",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T15:21+09:00",
+      "categories": [
+        "IT・通信",
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "40f8a83412ab",
@@ -582,18 +607,6 @@
       "source": "内閣府",
       "sourceType": "一次情報",
       "published": "2026-11-20T17:05+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "d1829ef04366",
-      "title": "第94回公共料金等専門調査会【11月27日開催】",
-      "url": "https://www.cao.go.jp/consumer/kabusoshiki/kokyoryokin/senmon/094/kaisai/index.html",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T15:47+09:00",
       "categories": [
         "政策・統計"
       ],
