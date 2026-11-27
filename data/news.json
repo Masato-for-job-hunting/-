@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T16:12+09:00",
-  "count": 49,
+  "updatedAt": "2026-11-27T17:45+09:00",
+  "count": 48,
   "errors": [
     "経済産業省"
   ],
@@ -17,6 +17,19 @@
         "政策・統計"
       ],
       "importance": 3
+    },
+    {
+      "id": "8a3325345f34",
+      "title": "外国為替市況（11月27日）",
+      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261127.pdf",
+      "source": "日本銀行 統計",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T17:40+09:00",
+      "categories": [
+        "証券・市場",
+        "政策・統計"
+      ],
+      "importance": 2
     },
     {
       "id": "3df584ed4b1f",
@@ -87,19 +100,6 @@
       "source": "日本銀行 統計",
       "sourceType": "一次情報",
       "published": "2026-11-24T17:40+09:00",
-      "categories": [
-        "証券・市場",
-        "政策・統計"
-      ],
-      "importance": 2
-    },
-    {
-      "id": "18bb9458f83a",
-      "title": "外国為替市況（11月20日）",
-      "url": "http://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261120.pdf",
-      "source": "日本銀行 統計",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T17:40+09:00",
       "categories": [
         "証券・市場",
         "政策・統計"
@@ -595,18 +595,6 @@
       "source": "金融庁",
       "sourceType": "一次情報",
       "published": "2026-11-20T20:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "9d14486706bc",
-      "title": "外交に関する世論調査",
-      "url": "https://survey.gov-online.go.jp",
-      "source": "内閣府",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T17:05+09:00",
       "categories": [
         "政策・統計"
       ],
