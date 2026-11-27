@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:10+09:00",
+  "updatedAt": "2026-11-27T11:37+09:00",
   "count": 48,
   "errors": [
     "経済産業省"
@@ -105,6 +105,18 @@
         "政策・統計"
       ],
       "importance": 2
+    },
+    {
+      "id": "42635f72a8ca",
+      "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
+      "url": "http://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
+      "source": "日本銀行",
+      "sourceType": "一次情報",
+      "published": "2026-11-27T10:15+09:00",
+      "categories": [
+        "政策・統計"
+      ],
+      "importance": 1
     },
     {
       "id": "685f5f13a826",
@@ -582,18 +594,6 @@
       "source": "日本銀行",
       "sourceType": "一次情報",
       "published": "2026-11-20T13:00+09:00",
-      "categories": [
-        "政策・統計"
-      ],
-      "importance": 1
-    },
-    {
-      "id": "7bfa5a975812",
-      "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
-      "url": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
-      "source": "日本銀行",
-      "sourceType": "一次情報",
-      "published": "2026-11-20T11:00+09:00",
       "categories": [
         "政策・統計"
       ],
